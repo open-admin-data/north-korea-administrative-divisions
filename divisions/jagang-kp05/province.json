@@ -1,0 +1,33 @@
+{
+  "id": "KP05",
+  "level": 1,
+  "level_name": {
+    "local": "도",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Jagang",
+    "en": "Jagang",
+    "slug": "jagang-kp05"
+  },
+  "code": {
+    "id": "KP05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.9",
+    "lon": "126.711"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kp/provinces/jagang-kp05/",
+    "api": "https://openadmindata.org/api/kp/"
+  }
+}

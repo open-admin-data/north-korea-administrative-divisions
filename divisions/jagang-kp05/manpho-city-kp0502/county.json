@@ -1,0 +1,45 @@
+{
+  "id": "KP0502",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Manpho City",
+    "en": "Manpho City",
+    "slug": "manpho-city-kp0502"
+  },
+  "code": {
+    "id": "KP0502",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP05",
+    "level": 1,
+    "name": {
+      "local": "Jagang",
+      "en": "Jagang",
+      "slug": "jagang-kp05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.163",
+    "lon": "126.349"
+  },
+  "metadata": {},
+  "source": {}
+}

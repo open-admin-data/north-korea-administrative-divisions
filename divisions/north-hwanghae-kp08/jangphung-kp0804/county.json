@@ -1,0 +1,45 @@
+{
+  "id": "KP0804",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Jangphung",
+    "en": "Jangphung",
+    "slug": "jangphung-kp0804"
+  },
+  "code": {
+    "id": "KP0804",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP08",
+    "level": 1,
+    "name": {
+      "local": "North Hwanghae",
+      "en": "North Hwanghae",
+      "slug": "north-hwanghae-kp08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.095",
+    "lon": "126.737"
+  },
+  "metadata": {},
+  "source": {}
+}

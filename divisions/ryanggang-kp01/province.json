@@ -1,0 +1,33 @@
+{
+  "id": "KP01",
+  "level": 1,
+  "level_name": {
+    "local": "도",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Ryanggang",
+    "en": "Ryanggang",
+    "slug": "ryanggang-kp01"
+  },
+  "code": {
+    "id": "KP01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.258",
+    "lon": "128.083"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kp/provinces/ryanggang-kp01/",
+    "api": "https://openadmindata.org/api/kp/"
+  }
+}

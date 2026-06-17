@@ -1,0 +1,45 @@
+{
+  "id": "KP0613",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Pakchon",
+    "en": "Pakchon",
+    "slug": "pakchon-kp0613"
+  },
+  "code": {
+    "id": "KP0613",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP06",
+    "level": 1,
+    "name": {
+      "local": "North Pyongan",
+      "en": "North Pyongan",
+      "slug": "north-pyongan-kp06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.691",
+    "lon": "125.648"
+  },
+  "metadata": {},
+  "source": {}
+}

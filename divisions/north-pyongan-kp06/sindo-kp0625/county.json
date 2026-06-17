@@ -1,0 +1,45 @@
+{
+  "id": "KP0625",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Sindo",
+    "en": "Sindo",
+    "slug": "sindo-kp0625"
+  },
+  "code": {
+    "id": "KP0625",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP06",
+    "level": 1,
+    "name": {
+      "local": "North Pyongan",
+      "en": "North Pyongan",
+      "slug": "north-pyongan-kp06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.852",
+    "lon": "124.255"
+  },
+  "metadata": {},
+  "source": {}
+}

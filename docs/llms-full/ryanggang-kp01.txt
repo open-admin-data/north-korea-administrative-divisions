@@ -1,0 +1,69 @@
+# Ryanggang — North Korea Administrative Divisions
+
+> 12 countys
+> Code: KP01
+> Coordinates: 41.258, 128.083
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Countys
+
+### Hyesan City
+
+Code: KP0101, Coordinates: 41.366, 128.271
+
+
+### Kabsan
+
+Code: KP0111, Coordinates: 41.127, 128.424
+
+
+### Kim Hyong Gwon
+
+Code: KP0105, Coordinates: 40.656, 128.067
+
+
+### Kim Hyong Jik
+
+Code: KP0104, Coordinates: 41.386, 127.243
+
+
+### Kim Jong Suk
+
+Code: KP0103, Coordinates: 41.264, 127.562
+
+
+### Paekam
+
+Code: KP0110, Coordinates: 41.508, 128.856
+
+
+### Phungso
+
+Code: KP0112, Coordinates: 40.859, 127.787
+
+
+### Pochon
+
+Code: KP0106, Coordinates: 41.646, 128.571
+
+
+### Samjiyon
+
+Code: KP0107, Coordinates: 41.803, 128.278
+
+
+### Samsu
+
+Code: KP0102, Coordinates: 41.243, 127.938
+
+
+### Taehongdan
+
+Code: KP0108, Coordinates: 41.973, 128.724
+
+
+### Unhung
+
+Code: KP0109, Coordinates: 41.325, 128.543
+
+

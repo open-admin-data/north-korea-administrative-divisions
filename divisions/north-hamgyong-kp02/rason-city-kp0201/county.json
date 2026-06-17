@@ -1,0 +1,45 @@
+{
+  "id": "KP0201",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Rason City",
+    "en": "Rason City",
+    "slug": "rason-city-kp0201"
+  },
+  "code": {
+    "id": "KP0201",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP02",
+    "level": 1,
+    "name": {
+      "local": "North Hamgyong",
+      "en": "North Hamgyong",
+      "slug": "north-hamgyong-kp02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP02",
+      "level": 1,
+      "name": {
+        "local": "North Hamgyong",
+        "en": "North Hamgyong",
+        "slug": "north-hamgyong-kp02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.392",
+    "lon": "130.466"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "KP0814",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Koksan",
+    "en": "Koksan",
+    "slug": "koksan-kp0814"
+  },
+  "code": {
+    "id": "KP0814",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP08",
+    "level": 1,
+    "name": {
+      "local": "North Hwanghae",
+      "en": "North Hwanghae",
+      "slug": "north-hwanghae-kp08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.724",
+    "lon": "126.669"
+  },
+  "metadata": {},
+  "source": {}
+}

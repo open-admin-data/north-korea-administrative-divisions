@@ -1,0 +1,902 @@
+[
+  {
+    "id": "KP0307",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Hamhung City",
+      "en": "Hamhung City",
+      "slug": "hamhung-city-kp0307"
+    },
+    "code": {
+      "id": "KP0307",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.916",
+      "lon": "127.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0310",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Hamju",
+      "en": "Hamju",
+      "slug": "hamju-kp0310"
+    },
+    "code": {
+      "id": "KP0310",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.899",
+      "lon": "127.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0324",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Hochon",
+      "en": "Hochon",
+      "slug": "hochon-kp0324"
+    },
+    "code": {
+      "id": "KP0324",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.871",
+      "lon": "128.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0320",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Hongwon",
+      "en": "Hongwon",
+      "slug": "hongwon-kp0320"
+    },
+    "code": {
+      "id": "KP0320",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.149",
+      "lon": "127.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0314",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jangjin",
+      "en": "Jangjin",
+      "slug": "jangjin-kp0314"
+    },
+    "code": {
+      "id": "KP0314",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.497",
+      "lon": "127.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0315",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jongphyong",
+      "en": "Jongphyong",
+      "slug": "jongphyong-kp0315"
+    },
+    "code": {
+      "id": "KP0315",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.696",
+      "lon": "127.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0318",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kowon",
+      "en": "Kowon",
+      "slug": "kowon-kp0318"
+    },
+    "code": {
+      "id": "KP0318",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.408",
+      "lon": "127.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0326",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kumho",
+      "en": "Kumho",
+      "slug": "kumho-kp0326"
+    },
+    "code": {
+      "id": "KP0326",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.115",
+      "lon": "128.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0316",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kumya",
+      "en": "Kumya",
+      "slug": "kumya-kp0316"
+    },
+    "code": {
+      "id": "KP0316",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.448",
+      "lon": "127.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0313",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pujon",
+      "en": "Pujon",
+      "slug": "pujon-kp0313"
+    },
+    "code": {
+      "id": "KP0313",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.762",
+      "lon": "127.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0321",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pukchong",
+      "en": "Pukchong",
+      "slug": "pukchong-kp0321"
+    },
+    "code": {
+      "id": "KP0321",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.23",
+      "lon": "128.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0319",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Rakwon",
+      "en": "Rakwon",
+      "slug": "rakwon-kp0319"
+    },
+    "code": {
+      "id": "KP0319",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.908",
+      "lon": "127.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0323",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Riwon",
+      "en": "Riwon",
+      "slug": "riwon-kp0323"
+    },
+    "code": {
+      "id": "KP0323",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.323",
+      "lon": "128.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0312",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sinhung",
+      "en": "Sinhung",
+      "slug": "sinhung-kp0312"
+    },
+    "code": {
+      "id": "KP0312",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.26",
+      "lon": "127.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0301",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sinpho City",
+      "en": "Sinpho City",
+      "slug": "sinpho-city-kp0301"
+    },
+    "code": {
+      "id": "KP0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.066",
+      "lon": "128.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0325",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sudong",
+      "en": "Sudong",
+      "slug": "sudong-kp0325"
+    },
+    "code": {
+      "id": "KP0325",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.365",
+      "lon": "126.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0302",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tanchon City",
+      "en": "Tanchon City",
+      "slug": "tanchon-city-kp0302"
+    },
+    "code": {
+      "id": "KP0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.784",
+      "lon": "128.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0322",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Toksong",
+      "en": "Toksong",
+      "slug": "toksong-kp0322"
+    },
+    "code": {
+      "id": "KP0322",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.466",
+      "lon": "128.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0317",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Yodok",
+      "en": "Yodok",
+      "slug": "yodok-kp0317"
+    },
+    "code": {
+      "id": "KP0317",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.614",
+      "lon": "126.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0311",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Yonggwang",
+      "en": "Yonggwang",
+      "slug": "yonggwang-kp0311"
+    },
+    "code": {
+      "id": "KP0311",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.077",
+      "lon": "127.318"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

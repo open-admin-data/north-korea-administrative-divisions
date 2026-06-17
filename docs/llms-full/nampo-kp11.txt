@@ -1,0 +1,39 @@
+# Nampo — North Korea Administrative Divisions
+
+> 6 countys
+> Code: KP11
+> Coordinates: 38.848, 125.335
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Countys
+
+### Chollima
+
+Code: KP1107, Coordinates: 38.952, 125.572
+
+
+### Kangso
+
+Code: KP1106, Coordinates: 38.954, 125.45
+
+
+### Nampo City
+
+Code: KP1102, Coordinates: 38.733, 125.297
+
+
+### Onchon
+
+Code: KP1103, Coordinates: 38.867, 125.219
+
+
+### Ryonggang
+
+Code: KP1104, Coordinates: 38.812, 125.392
+
+
+### Taean
+
+Code: KP1105, Coordinates: 38.824, 125.505
+
+

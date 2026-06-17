@@ -1,0 +1,45 @@
+{
+  "id": "KP0906",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Samchon",
+    "en": "Samchon",
+    "slug": "samchon-kp0906"
+  },
+  "code": {
+    "id": "KP0906",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP09",
+    "level": 1,
+    "name": {
+      "local": "South Hwanghae",
+      "en": "South Hwanghae",
+      "slug": "south-hwanghae-kp09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.339",
+    "lon": "125.276"
+  },
+  "metadata": {},
+  "source": {}
+}

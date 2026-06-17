@@ -1,0 +1,45 @@
+{
+  "id": "KP0318",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kowon",
+    "en": "Kowon",
+    "slug": "kowon-kp0318"
+  },
+  "code": {
+    "id": "KP0318",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP03",
+    "level": 1,
+    "name": {
+      "local": "South Hamgyong",
+      "en": "South Hamgyong",
+      "slug": "south-hamgyong-kp03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.408",
+    "lon": "127.079"
+  },
+  "metadata": {},
+  "source": {}
+}

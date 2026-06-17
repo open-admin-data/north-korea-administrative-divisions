@@ -1,0 +1,45 @@
+{
+  "id": "KP0618",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Thaechon",
+    "en": "Thaechon",
+    "slug": "thaechon-kp0618"
+  },
+  "code": {
+    "id": "KP0618",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP06",
+    "level": 1,
+    "name": {
+      "local": "North Pyongan",
+      "en": "North Pyongan",
+      "slug": "north-pyongan-kp06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.187",
+    "lon": "125.142"
+  },
+  "metadata": {},
+  "source": {}
+}

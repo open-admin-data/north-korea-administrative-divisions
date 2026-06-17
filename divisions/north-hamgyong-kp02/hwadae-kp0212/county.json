@@ -1,0 +1,45 @@
+{
+  "id": "KP0212",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Hwadae",
+    "en": "Hwadae",
+    "slug": "hwadae-kp0212"
+  },
+  "code": {
+    "id": "KP0212",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP02",
+    "level": 1,
+    "name": {
+      "local": "North Hamgyong",
+      "en": "North Hamgyong",
+      "slug": "north-hamgyong-kp02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP02",
+      "level": 1,
+      "name": {
+        "local": "North Hamgyong",
+        "en": "North Hamgyong",
+        "slug": "north-hamgyong-kp02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.824",
+    "lon": "129.408"
+  },
+  "metadata": {},
+  "source": {}
+}

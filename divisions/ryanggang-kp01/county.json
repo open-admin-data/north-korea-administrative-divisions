@@ -1,0 +1,542 @@
+[
+  {
+    "id": "KP0101",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Hyesan City",
+      "en": "Hyesan City",
+      "slug": "hyesan-city-kp0101"
+    },
+    "code": {
+      "id": "KP0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP01",
+        "level": 1,
+        "name": {
+          "local": "Ryanggang",
+          "en": "Ryanggang",
+          "slug": "ryanggang-kp01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.366",
+      "lon": "128.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0111",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kabsan",
+      "en": "Kabsan",
+      "slug": "kabsan-kp0111"
+    },
+    "code": {
+      "id": "KP0111",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP01",
+        "level": 1,
+        "name": {
+          "local": "Ryanggang",
+          "en": "Ryanggang",
+          "slug": "ryanggang-kp01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.127",
+      "lon": "128.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0105",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kim Hyong Gwon",
+      "en": "Kim Hyong Gwon",
+      "slug": "kim-hyong-gwon-kp0105"
+    },
+    "code": {
+      "id": "KP0105",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP01",
+        "level": 1,
+        "name": {
+          "local": "Ryanggang",
+          "en": "Ryanggang",
+          "slug": "ryanggang-kp01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.656",
+      "lon": "128.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0104",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kim Hyong Jik",
+      "en": "Kim Hyong Jik",
+      "slug": "kim-hyong-jik-kp0104"
+    },
+    "code": {
+      "id": "KP0104",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP01",
+        "level": 1,
+        "name": {
+          "local": "Ryanggang",
+          "en": "Ryanggang",
+          "slug": "ryanggang-kp01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.386",
+      "lon": "127.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0103",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kim Jong Suk",
+      "en": "Kim Jong Suk",
+      "slug": "kim-jong-suk-kp0103"
+    },
+    "code": {
+      "id": "KP0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP01",
+        "level": 1,
+        "name": {
+          "local": "Ryanggang",
+          "en": "Ryanggang",
+          "slug": "ryanggang-kp01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.264",
+      "lon": "127.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0110",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Paekam",
+      "en": "Paekam",
+      "slug": "paekam-kp0110"
+    },
+    "code": {
+      "id": "KP0110",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP01",
+        "level": 1,
+        "name": {
+          "local": "Ryanggang",
+          "en": "Ryanggang",
+          "slug": "ryanggang-kp01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.508",
+      "lon": "128.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0112",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Phungso",
+      "en": "Phungso",
+      "slug": "phungso-kp0112"
+    },
+    "code": {
+      "id": "KP0112",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP01",
+        "level": 1,
+        "name": {
+          "local": "Ryanggang",
+          "en": "Ryanggang",
+          "slug": "ryanggang-kp01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.859",
+      "lon": "127.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0106",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pochon",
+      "en": "Pochon",
+      "slug": "pochon-kp0106"
+    },
+    "code": {
+      "id": "KP0106",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP01",
+        "level": 1,
+        "name": {
+          "local": "Ryanggang",
+          "en": "Ryanggang",
+          "slug": "ryanggang-kp01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.646",
+      "lon": "128.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0107",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Samjiyon",
+      "en": "Samjiyon",
+      "slug": "samjiyon-kp0107"
+    },
+    "code": {
+      "id": "KP0107",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP01",
+        "level": 1,
+        "name": {
+          "local": "Ryanggang",
+          "en": "Ryanggang",
+          "slug": "ryanggang-kp01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.803",
+      "lon": "128.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0102",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Samsu",
+      "en": "Samsu",
+      "slug": "samsu-kp0102"
+    },
+    "code": {
+      "id": "KP0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP01",
+        "level": 1,
+        "name": {
+          "local": "Ryanggang",
+          "en": "Ryanggang",
+          "slug": "ryanggang-kp01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.243",
+      "lon": "127.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0108",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Taehongdan",
+      "en": "Taehongdan",
+      "slug": "taehongdan-kp0108"
+    },
+    "code": {
+      "id": "KP0108",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP01",
+        "level": 1,
+        "name": {
+          "local": "Ryanggang",
+          "en": "Ryanggang",
+          "slug": "ryanggang-kp01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.973",
+      "lon": "128.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0109",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Unhung",
+      "en": "Unhung",
+      "slug": "unhung-kp0109"
+    },
+    "code": {
+      "id": "KP0109",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP01",
+        "level": 1,
+        "name": {
+          "local": "Ryanggang",
+          "en": "Ryanggang",
+          "slug": "ryanggang-kp01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.325",
+      "lon": "128.543"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

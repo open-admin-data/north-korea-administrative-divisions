@@ -1,0 +1,45 @@
+{
+  "id": "KP0516",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Songwon",
+    "en": "Songwon",
+    "slug": "songwon-kp0516"
+  },
+  "code": {
+    "id": "KP0516",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP05",
+    "level": 1,
+    "name": {
+      "local": "Jagang",
+      "en": "Jagang",
+      "slug": "jagang-kp05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.373",
+    "lon": "125.879"
+  },
+  "metadata": {},
+  "source": {}
+}

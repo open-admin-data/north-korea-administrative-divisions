@@ -1,0 +1,45 @@
+{
+  "id": "KP0410",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Hoeyang",
+    "en": "Hoeyang",
+    "slug": "hoeyang-kp0410"
+  },
+  "code": {
+    "id": "KP0410",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP04",
+    "level": 1,
+    "name": {
+      "local": "Kangwon",
+      "en": "Kangwon",
+      "slug": "kangwon-kp04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.76",
+    "lon": "127.596"
+  },
+  "metadata": {},
+  "source": {}
+}

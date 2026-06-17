@@ -1,0 +1,1127 @@
+[
+  {
+    "id": "KP0623",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Changsong",
+      "en": "Changsong",
+      "slug": "changsong-kp0623"
+    },
+    "code": {
+      "id": "KP0623",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.389",
+      "lon": "125.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0608",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Cholsan",
+      "en": "Cholsan",
+      "slug": "cholsan-kp0608"
+    },
+    "code": {
+      "id": "KP0608",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.73",
+      "lon": "124.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0619",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Chonma",
+      "en": "Chonma",
+      "slug": "chonma-kp0619"
+    },
+    "code": {
+      "id": "KP0619",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.078",
+      "lon": "124.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0616",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Hyangsan",
+      "en": "Hyangsan",
+      "slug": "hyangsan-kp0616"
+    },
+    "code": {
+      "id": "KP0616",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.032",
+      "lon": "126.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0602",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jongju City",
+      "en": "Jongju City",
+      "slug": "jongju-city-kp0602"
+    },
+    "code": {
+      "id": "KP0602",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.699",
+      "lon": "125.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0615",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kujang",
+      "en": "Kujang",
+      "slug": "kujang-kp0615"
+    },
+    "code": {
+      "id": "KP0615",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.932",
+      "lon": "126.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0603",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kusong City",
+      "en": "Kusong City",
+      "slug": "kusong-city-kp0603"
+    },
+    "code": {
+      "id": "KP0603",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.95",
+      "lon": "125.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0611",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kwaksan",
+      "en": "Kwaksan",
+      "slug": "kwaksan-kp0611"
+    },
+    "code": {
+      "id": "KP0611",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.701",
+      "lon": "125.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0614",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Nyongbyon",
+      "en": "Nyongbyon",
+      "slug": "nyongbyon-kp0614"
+    },
+    "code": {
+      "id": "KP0614",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.824",
+      "lon": "125.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0613",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pakchon",
+      "en": "Pakchon",
+      "slug": "pakchon-kp0613"
+    },
+    "code": {
+      "id": "KP0613",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.691",
+      "lon": "125.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0605",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Phihyon",
+      "en": "Phihyon",
+      "slug": "phihyon-kp0605"
+    },
+    "code": {
+      "id": "KP0605",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.048",
+      "lon": "124.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0604",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pyokdong",
+      "en": "Pyokdong",
+      "slug": "pyokdong-kp0604"
+    },
+    "code": {
+      "id": "KP0604",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.503",
+      "lon": "125.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0606",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ryongchon",
+      "en": "Ryongchon",
+      "slug": "ryongchon-kp0606"
+    },
+    "code": {
+      "id": "KP0606",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.948",
+      "lon": "124.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0621",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sakju",
+      "en": "Sakju",
+      "slug": "sakju-kp0621"
+    },
+    "code": {
+      "id": "KP0621",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.331",
+      "lon": "124.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0625",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sindo",
+      "en": "Sindo",
+      "slug": "sindo-kp0625"
+    },
+    "code": {
+      "id": "KP0625",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.852",
+      "lon": "124.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0601",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sinuiju City",
+      "en": "Sinuiju City",
+      "slug": "sinuiju-city-kp0601"
+    },
+    "code": {
+      "id": "KP0601",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.084",
+      "lon": "124.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0610",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sonchon",
+      "en": "Sonchon",
+      "slug": "sonchon-kp0610"
+    },
+    "code": {
+      "id": "KP0610",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.801",
+      "lon": "124.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0622",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Taegwan",
+      "en": "Taegwan",
+      "slug": "taegwan-kp0622"
+    },
+    "code": {
+      "id": "KP0622",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.933",
+      "lon": "125.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0618",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Thaechon",
+      "en": "Thaechon",
+      "slug": "thaechon-kp0618"
+    },
+    "code": {
+      "id": "KP0618",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.187",
+      "lon": "125.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0624",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tongchang",
+      "en": "Tongchang",
+      "slug": "tongchang-kp0624"
+    },
+    "code": {
+      "id": "KP0624",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.225",
+      "lon": "125.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0609",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tongrim",
+      "en": "Tongrim",
+      "slug": "tongrim-kp0609"
+    },
+    "code": {
+      "id": "KP0609",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.9",
+      "lon": "124.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0620",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Uiju",
+      "en": "Uiju",
+      "slug": "uiju-kp0620"
+    },
+    "code": {
+      "id": "KP0620",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.203",
+      "lon": "124.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0612",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Unjon",
+      "en": "Unjon",
+      "slug": "unjon-kp0612"
+    },
+    "code": {
+      "id": "KP0612",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.665",
+      "lon": "125.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0617",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Unsan",
+      "en": "Unsan",
+      "slug": "unsan-kp0617"
+    },
+    "code": {
+      "id": "KP0617",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.086",
+      "lon": "125.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0607",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Yomju",
+      "en": "Yomju",
+      "slug": "yomju-kp0607"
+    },
+    "code": {
+      "id": "KP0607",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.896",
+      "lon": "124.505"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

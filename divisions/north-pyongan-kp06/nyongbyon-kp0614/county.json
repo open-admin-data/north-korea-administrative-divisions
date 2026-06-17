@@ -1,0 +1,45 @@
+{
+  "id": "KP0614",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Nyongbyon",
+    "en": "Nyongbyon",
+    "slug": "nyongbyon-kp0614"
+  },
+  "code": {
+    "id": "KP0614",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP06",
+    "level": 1,
+    "name": {
+      "local": "North Pyongan",
+      "en": "North Pyongan",
+      "slug": "north-pyongan-kp06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.824",
+    "lon": "125.772"
+  },
+  "metadata": {},
+  "source": {}
+}

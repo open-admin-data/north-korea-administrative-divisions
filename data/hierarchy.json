@@ -1,0 +1,2307 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/kp/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/north-korea-administrative-divisions",
+  "data": [
+    {
+      "id": "KP05",
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      },
+      "code": {
+        "id": "KP05",
+        "iso": null
+      },
+      "county": [
+        {
+          "id": "KP0513",
+          "name": {
+            "local": "Chosan",
+            "en": "Chosan",
+            "slug": "chosan-kp0513"
+          },
+          "code": {
+            "id": "KP0513",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0503",
+          "name": {
+            "local": "Huichon City",
+            "en": "Huichon City",
+            "slug": "huichon-city-kp0503"
+          },
+          "code": {
+            "id": "KP0503",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0508",
+          "name": {
+            "local": "Hwaphyong",
+            "en": "Hwaphyong",
+            "slug": "hwaphyong-kp0508"
+          },
+          "code": {
+            "id": "KP0508",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0507",
+          "name": {
+            "local": "Janggang",
+            "en": "Janggang",
+            "slug": "janggang-kp0507"
+          },
+          "code": {
+            "id": "KP0507",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0510",
+          "name": {
+            "local": "Jasong",
+            "en": "Jasong",
+            "slug": "jasong-kp0510"
+          },
+          "code": {
+            "id": "KP0510",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0505",
+          "name": {
+            "local": "Jonchon",
+            "en": "Jonchon",
+            "slug": "jonchon-kp0505"
+          },
+          "code": {
+            "id": "KP0505",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0509",
+          "name": {
+            "local": "Junggang",
+            "en": "Junggang",
+            "slug": "junggang-kp0509"
+          },
+          "code": {
+            "id": "KP0509",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0501",
+          "name": {
+            "local": "Kanggye City",
+            "en": "Kanggye City",
+            "slug": "kanggye-city-kp0501"
+          },
+          "code": {
+            "id": "KP0501",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0515",
+          "name": {
+            "local": "Kophung",
+            "en": "Kophung",
+            "slug": "kophung-kp0515"
+          },
+          "code": {
+            "id": "KP0515",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0502",
+          "name": {
+            "local": "Manpho City",
+            "en": "Manpho City",
+            "slug": "manpho-city-kp0502"
+          },
+          "code": {
+            "id": "KP0502",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0504",
+          "name": {
+            "local": "Rangrim",
+            "en": "Rangrim",
+            "slug": "rangrim-kp0504"
+          },
+          "code": {
+            "id": "KP0504",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0518",
+          "name": {
+            "local": "Ryongrim",
+            "en": "Ryongrim",
+            "slug": "ryongrim-kp0518"
+          },
+          "code": {
+            "id": "KP0518",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0511",
+          "name": {
+            "local": "Sijung",
+            "en": "Sijung",
+            "slug": "sijung-kp0511"
+          },
+          "code": {
+            "id": "KP0511",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0506",
+          "name": {
+            "local": "Songgan",
+            "en": "Songgan",
+            "slug": "songgan-kp0506"
+          },
+          "code": {
+            "id": "KP0506",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0516",
+          "name": {
+            "local": "Songwon",
+            "en": "Songwon",
+            "slug": "songwon-kp0516"
+          },
+          "code": {
+            "id": "KP0516",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0517",
+          "name": {
+            "local": "Tongsin",
+            "en": "Tongsin",
+            "slug": "tongsin-kp0517"
+          },
+          "code": {
+            "id": "KP0517",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0514",
+          "name": {
+            "local": "Usi",
+            "en": "Usi",
+            "slug": "usi-kp0514"
+          },
+          "code": {
+            "id": "KP0514",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0512",
+          "name": {
+            "local": "Wiwon",
+            "en": "Wiwon",
+            "slug": "wiwon-kp0512"
+          },
+          "code": {
+            "id": "KP0512",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KP04",
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      },
+      "code": {
+        "id": "KP04",
+        "iso": null
+      },
+      "county": [
+        {
+          "id": "KP0403",
+          "name": {
+            "local": "Anbyon",
+            "en": "Anbyon",
+            "slug": "anbyon-kp0403"
+          },
+          "code": {
+            "id": "KP0403",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0408",
+          "name": {
+            "local": "Changdo",
+            "en": "Changdo",
+            "slug": "changdo-kp0408"
+          },
+          "code": {
+            "id": "KP0408",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0413",
+          "name": {
+            "local": "Cholwon",
+            "en": "Cholwon",
+            "slug": "cholwon-kp0413"
+          },
+          "code": {
+            "id": "KP0413",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0417",
+          "name": {
+            "local": "Chonnae",
+            "en": "Chonnae",
+            "slug": "chonnae-kp0417"
+          },
+          "code": {
+            "id": "KP0417",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0410",
+          "name": {
+            "local": "Hoeyang",
+            "en": "Hoeyang",
+            "slug": "hoeyang-kp0410"
+          },
+          "code": {
+            "id": "KP0410",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0414",
+          "name": {
+            "local": "Ichon",
+            "en": "Ichon",
+            "slug": "ichon-kp0414"
+          },
+          "code": {
+            "id": "KP0414",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0409",
+          "name": {
+            "local": "Kimhwa",
+            "en": "Kimhwa",
+            "slug": "kimhwa-kp0409"
+          },
+          "code": {
+            "id": "KP0409",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0404",
+          "name": {
+            "local": "Kosan",
+            "en": "Kosan",
+            "slug": "kosan-kp0404"
+          },
+          "code": {
+            "id": "KP0404",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0406",
+          "name": {
+            "local": "Kosong",
+            "en": "Kosong",
+            "slug": "kosong-kp0406"
+          },
+          "code": {
+            "id": "KP0406",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0407",
+          "name": {
+            "local": "Kumgang",
+            "en": "Kumgang",
+            "slug": "kumgang-kp0407"
+          },
+          "code": {
+            "id": "KP0407",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0402",
+          "name": {
+            "local": "Munchon City",
+            "en": "Munchon City",
+            "slug": "munchon-city-kp0402"
+          },
+          "code": {
+            "id": "KP0402",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0415",
+          "name": {
+            "local": "Phangyo",
+            "en": "Phangyo",
+            "slug": "phangyo-kp0415"
+          },
+          "code": {
+            "id": "KP0415",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0412",
+          "name": {
+            "local": "Phyonggang",
+            "en": "Phyonggang",
+            "slug": "phyonggang-kp0412"
+          },
+          "code": {
+            "id": "KP0412",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0416",
+          "name": {
+            "local": "Popdong",
+            "en": "Popdong",
+            "slug": "popdong-kp0416"
+          },
+          "code": {
+            "id": "KP0416",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0411",
+          "name": {
+            "local": "Sepho",
+            "en": "Sepho",
+            "slug": "sepho-kp0411"
+          },
+          "code": {
+            "id": "KP0411",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0405",
+          "name": {
+            "local": "Thongchon",
+            "en": "Thongchon",
+            "slug": "thongchon-kp0405"
+          },
+          "code": {
+            "id": "KP0405",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0401",
+          "name": {
+            "local": "Wonsan City",
+            "en": "Wonsan City",
+            "slug": "wonsan-city-kp0401"
+          },
+          "code": {
+            "id": "KP0401",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KP11",
+      "name": {
+        "local": "Nampo",
+        "en": "Nampo",
+        "slug": "nampo-kp11"
+      },
+      "code": {
+        "id": "KP11",
+        "iso": null
+      },
+      "county": [
+        {
+          "id": "KP1107",
+          "name": {
+            "local": "Chollima",
+            "en": "Chollima",
+            "slug": "chollima-kp1107"
+          },
+          "code": {
+            "id": "KP1107",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP1106",
+          "name": {
+            "local": "Kangso",
+            "en": "Kangso",
+            "slug": "kangso-kp1106"
+          },
+          "code": {
+            "id": "KP1106",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP1102",
+          "name": {
+            "local": "Nampo City",
+            "en": "Nampo City",
+            "slug": "nampo-city-kp1102"
+          },
+          "code": {
+            "id": "KP1102",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP1103",
+          "name": {
+            "local": "Onchon",
+            "en": "Onchon",
+            "slug": "onchon-kp1103"
+          },
+          "code": {
+            "id": "KP1103",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP1104",
+          "name": {
+            "local": "Ryonggang",
+            "en": "Ryonggang",
+            "slug": "ryonggang-kp1104"
+          },
+          "code": {
+            "id": "KP1104",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP1105",
+          "name": {
+            "local": "Taean",
+            "en": "Taean",
+            "slug": "taean-kp1105"
+          },
+          "code": {
+            "id": "KP1105",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KP02",
+      "name": {
+        "local": "North Hamgyong",
+        "en": "North Hamgyong",
+        "slug": "north-hamgyong-kp02"
+      },
+      "code": {
+        "id": "KP02",
+        "iso": null
+      },
+      "county": [
+        {
+          "id": "KP0205",
+          "name": {
+            "local": "Chongjin City",
+            "en": "Chongjin City",
+            "slug": "chongjin-city-kp0205"
+          },
+          "code": {
+            "id": "KP0205",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0203",
+          "name": {
+            "local": "Hoeryong City",
+            "en": "Hoeryong City",
+            "slug": "hoeryong-city-kp0203"
+          },
+          "code": {
+            "id": "KP0203",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0212",
+          "name": {
+            "local": "Hwadae",
+            "en": "Hwadae",
+            "slug": "hwadae-kp0212"
+          },
+          "code": {
+            "id": "KP0212",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0211",
+          "name": {
+            "local": "Kilju",
+            "en": "Kilju",
+            "slug": "kilju-kp0211"
+          },
+          "code": {
+            "id": "KP0211",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0202",
+          "name": {
+            "local": "Kim Chaek City",
+            "en": "Kim Chaek City",
+            "slug": "kim-chaek-city-kp0202"
+          },
+          "code": {
+            "id": "KP0202",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0222",
+          "name": {
+            "local": "Kyonghung",
+            "en": "Kyonghung",
+            "slug": "kyonghung-kp0222"
+          },
+          "code": {
+            "id": "KP0222",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0216",
+          "name": {
+            "local": "Kyongsong",
+            "en": "Kyongsong",
+            "slug": "kyongsong-kp0216"
+          },
+          "code": {
+            "id": "KP0216",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0221",
+          "name": {
+            "local": "Kyongwon",
+            "en": "Kyongwon",
+            "slug": "kyongwon-kp0221"
+          },
+          "code": {
+            "id": "KP0221",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0218",
+          "name": {
+            "local": "Musan",
+            "en": "Musan",
+            "slug": "musan-kp0218"
+          },
+          "code": {
+            "id": "KP0218",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0213",
+          "name": {
+            "local": "Myongchon",
+            "en": "Myongchon",
+            "slug": "myongchon-kp0213"
+          },
+          "code": {
+            "id": "KP0213",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0214",
+          "name": {
+            "local": "Myonggan",
+            "en": "Myonggan",
+            "slug": "myonggan-kp0214"
+          },
+          "code": {
+            "id": "KP0214",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0220",
+          "name": {
+            "local": "Onsong",
+            "en": "Onsong",
+            "slug": "onsong-kp0220"
+          },
+          "code": {
+            "id": "KP0220",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0215",
+          "name": {
+            "local": "Orang",
+            "en": "Orang",
+            "slug": "orang-kp0215"
+          },
+          "code": {
+            "id": "KP0215",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0219",
+          "name": {
+            "local": "Puryong",
+            "en": "Puryong",
+            "slug": "puryong-kp0219"
+          },
+          "code": {
+            "id": "KP0219",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0201",
+          "name": {
+            "local": "Rason City",
+            "en": "Rason City",
+            "slug": "rason-city-kp0201"
+          },
+          "code": {
+            "id": "KP0201",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0217",
+          "name": {
+            "local": "Yonsa",
+            "en": "Yonsa",
+            "slug": "yonsa-kp0217"
+          },
+          "code": {
+            "id": "KP0217",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KP08",
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      },
+      "code": {
+        "id": "KP08",
+        "iso": null
+      },
+      "county": [
+        {
+          "id": "KP0805",
+          "name": {
+            "local": "Hwangju",
+            "en": "Hwangju",
+            "slug": "hwangju-kp0805"
+          },
+          "code": {
+            "id": "KP0805",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0804",
+          "name": {
+            "local": "Jangphung",
+            "en": "Jangphung",
+            "slug": "jangphung-kp0804"
+          },
+          "code": {
+            "id": "KP0804",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0821",
+          "name": {
+            "local": "Junghwa",
+            "en": "Junghwa",
+            "slug": "junghwa-kp0821"
+          },
+          "code": {
+            "id": "KP0821",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0803",
+          "name": {
+            "local": "Kaesong City",
+            "en": "Kaesong City",
+            "slug": "kaesong-city-kp0803"
+          },
+          "code": {
+            "id": "KP0803",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0820",
+          "name": {
+            "local": "Kangnam",
+            "en": "Kangnam",
+            "slug": "kangnam-kp0820"
+          },
+          "code": {
+            "id": "KP0820",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0814",
+          "name": {
+            "local": "Koksan",
+            "en": "Koksan",
+            "slug": "koksan-kp0814"
+          },
+          "code": {
+            "id": "KP0814",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0817",
+          "name": {
+            "local": "Kumchon",
+            "en": "Kumchon",
+            "slug": "kumchon-kp0817"
+          },
+          "code": {
+            "id": "KP0817",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0816",
+          "name": {
+            "local": "Phyongsan",
+            "en": "Phyongsan",
+            "slug": "phyongsan-kp0816"
+          },
+          "code": {
+            "id": "KP0816",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0807",
+          "name": {
+            "local": "Pongsan",
+            "en": "Pongsan",
+            "slug": "pongsan-kp0807"
+          },
+          "code": {
+            "id": "KP0807",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0809",
+          "name": {
+            "local": "Rinsan",
+            "en": "Rinsan",
+            "slug": "rinsan-kp0809"
+          },
+          "code": {
+            "id": "KP0809",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0822",
+          "name": {
+            "local": "Sangwon",
+            "en": "Sangwon",
+            "slug": "sangwon-kp0822"
+          },
+          "code": {
+            "id": "KP0822",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0801",
+          "name": {
+            "local": "Sariwon City",
+            "en": "Sariwon City",
+            "slug": "sariwon-city-kp0801"
+          },
+          "code": {
+            "id": "KP0801",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0815",
+          "name": {
+            "local": "Sinkye",
+            "en": "Sinkye",
+            "slug": "sinkye-kp0815"
+          },
+          "code": {
+            "id": "KP0815",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0813",
+          "name": {
+            "local": "Sinphyong",
+            "en": "Sinphyong",
+            "slug": "sinphyong-kp0813"
+          },
+          "code": {
+            "id": "KP0813",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0810",
+          "name": {
+            "local": "Sohung",
+            "en": "Sohung",
+            "slug": "sohung-kp0810"
+          },
+          "code": {
+            "id": "KP0810",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0802",
+          "name": {
+            "local": "Songrim City",
+            "en": "Songrim City",
+            "slug": "songrim-city-kp0802"
+          },
+          "code": {
+            "id": "KP0802",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0811",
+          "name": {
+            "local": "Suan",
+            "en": "Suan",
+            "slug": "suan-kp0811"
+          },
+          "code": {
+            "id": "KP0811",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0818",
+          "name": {
+            "local": "Thosan",
+            "en": "Thosan",
+            "slug": "thosan-kp0818"
+          },
+          "code": {
+            "id": "KP0818",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0808",
+          "name": {
+            "local": "Unpha",
+            "en": "Unpha",
+            "slug": "unpha-kp0808"
+          },
+          "code": {
+            "id": "KP0808",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0812",
+          "name": {
+            "local": "Yonsan",
+            "en": "Yonsan",
+            "slug": "yonsan-kp0812"
+          },
+          "code": {
+            "id": "KP0812",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0806",
+          "name": {
+            "local": "Yonthan",
+            "en": "Yonthan",
+            "slug": "yonthan-kp0806"
+          },
+          "code": {
+            "id": "KP0806",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KP06",
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      },
+      "code": {
+        "id": "KP06",
+        "iso": null
+      },
+      "county": [
+        {
+          "id": "KP0623",
+          "name": {
+            "local": "Changsong",
+            "en": "Changsong",
+            "slug": "changsong-kp0623"
+          },
+          "code": {
+            "id": "KP0623",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0608",
+          "name": {
+            "local": "Cholsan",
+            "en": "Cholsan",
+            "slug": "cholsan-kp0608"
+          },
+          "code": {
+            "id": "KP0608",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0619",
+          "name": {
+            "local": "Chonma",
+            "en": "Chonma",
+            "slug": "chonma-kp0619"
+          },
+          "code": {
+            "id": "KP0619",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0616",
+          "name": {
+            "local": "Hyangsan",
+            "en": "Hyangsan",
+            "slug": "hyangsan-kp0616"
+          },
+          "code": {
+            "id": "KP0616",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0602",
+          "name": {
+            "local": "Jongju City",
+            "en": "Jongju City",
+            "slug": "jongju-city-kp0602"
+          },
+          "code": {
+            "id": "KP0602",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0615",
+          "name": {
+            "local": "Kujang",
+            "en": "Kujang",
+            "slug": "kujang-kp0615"
+          },
+          "code": {
+            "id": "KP0615",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0603",
+          "name": {
+            "local": "Kusong City",
+            "en": "Kusong City",
+            "slug": "kusong-city-kp0603"
+          },
+          "code": {
+            "id": "KP0603",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0611",
+          "name": {
+            "local": "Kwaksan",
+            "en": "Kwaksan",
+            "slug": "kwaksan-kp0611"
+          },
+          "code": {
+            "id": "KP0611",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0614",
+          "name": {
+            "local": "Nyongbyon",
+            "en": "Nyongbyon",
+            "slug": "nyongbyon-kp0614"
+          },
+          "code": {
+            "id": "KP0614",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0613",
+          "name": {
+            "local": "Pakchon",
+            "en": "Pakchon",
+            "slug": "pakchon-kp0613"
+          },
+          "code": {
+            "id": "KP0613",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0605",
+          "name": {
+            "local": "Phihyon",
+            "en": "Phihyon",
+            "slug": "phihyon-kp0605"
+          },
+          "code": {
+            "id": "KP0605",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0604",
+          "name": {
+            "local": "Pyokdong",
+            "en": "Pyokdong",
+            "slug": "pyokdong-kp0604"
+          },
+          "code": {
+            "id": "KP0604",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0606",
+          "name": {
+            "local": "Ryongchon",
+            "en": "Ryongchon",
+            "slug": "ryongchon-kp0606"
+          },
+          "code": {
+            "id": "KP0606",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0621",
+          "name": {
+            "local": "Sakju",
+            "en": "Sakju",
+            "slug": "sakju-kp0621"
+          },
+          "code": {
+            "id": "KP0621",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0625",
+          "name": {
+            "local": "Sindo",
+            "en": "Sindo",
+            "slug": "sindo-kp0625"
+          },
+          "code": {
+            "id": "KP0625",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0601",
+          "name": {
+            "local": "Sinuiju City",
+            "en": "Sinuiju City",
+            "slug": "sinuiju-city-kp0601"
+          },
+          "code": {
+            "id": "KP0601",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0610",
+          "name": {
+            "local": "Sonchon",
+            "en": "Sonchon",
+            "slug": "sonchon-kp0610"
+          },
+          "code": {
+            "id": "KP0610",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0622",
+          "name": {
+            "local": "Taegwan",
+            "en": "Taegwan",
+            "slug": "taegwan-kp0622"
+          },
+          "code": {
+            "id": "KP0622",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0618",
+          "name": {
+            "local": "Thaechon",
+            "en": "Thaechon",
+            "slug": "thaechon-kp0618"
+          },
+          "code": {
+            "id": "KP0618",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0624",
+          "name": {
+            "local": "Tongchang",
+            "en": "Tongchang",
+            "slug": "tongchang-kp0624"
+          },
+          "code": {
+            "id": "KP0624",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0609",
+          "name": {
+            "local": "Tongrim",
+            "en": "Tongrim",
+            "slug": "tongrim-kp0609"
+          },
+          "code": {
+            "id": "KP0609",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0620",
+          "name": {
+            "local": "Uiju",
+            "en": "Uiju",
+            "slug": "uiju-kp0620"
+          },
+          "code": {
+            "id": "KP0620",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0612",
+          "name": {
+            "local": "Unjon",
+            "en": "Unjon",
+            "slug": "unjon-kp0612"
+          },
+          "code": {
+            "id": "KP0612",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0617",
+          "name": {
+            "local": "Unsan",
+            "en": "Unsan",
+            "slug": "unsan-kp0617"
+          },
+          "code": {
+            "id": "KP0617",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0607",
+          "name": {
+            "local": "Yomju",
+            "en": "Yomju",
+            "slug": "yomju-kp0607"
+          },
+          "code": {
+            "id": "KP0607",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KP10",
+      "name": {
+        "local": "Pyongyang",
+        "en": "Pyongyang",
+        "slug": "pyongyang-kp10"
+      },
+      "code": {
+        "id": "KP10",
+        "iso": null
+      },
+      "county": [
+        {
+          "id": "KP1023",
+          "name": {
+            "local": "Kangdong",
+            "en": "Kangdong",
+            "slug": "kangdong-kp1023"
+          },
+          "code": {
+            "id": "KP1023",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP1001",
+          "name": {
+            "local": "Pyongyang",
+            "en": "Pyongyang",
+            "slug": "pyongyang-kp1001"
+          },
+          "code": {
+            "id": "KP1001",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP1007",
+          "name": {
+            "local": "Unjong Dist.",
+            "en": "Unjong Dist.",
+            "slug": "unjong-dist-kp1007"
+          },
+          "code": {
+            "id": "KP1007",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KP01",
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      },
+      "code": {
+        "id": "KP01",
+        "iso": null
+      },
+      "county": [
+        {
+          "id": "KP0101",
+          "name": {
+            "local": "Hyesan City",
+            "en": "Hyesan City",
+            "slug": "hyesan-city-kp0101"
+          },
+          "code": {
+            "id": "KP0101",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0111",
+          "name": {
+            "local": "Kabsan",
+            "en": "Kabsan",
+            "slug": "kabsan-kp0111"
+          },
+          "code": {
+            "id": "KP0111",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0105",
+          "name": {
+            "local": "Kim Hyong Gwon",
+            "en": "Kim Hyong Gwon",
+            "slug": "kim-hyong-gwon-kp0105"
+          },
+          "code": {
+            "id": "KP0105",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0104",
+          "name": {
+            "local": "Kim Hyong Jik",
+            "en": "Kim Hyong Jik",
+            "slug": "kim-hyong-jik-kp0104"
+          },
+          "code": {
+            "id": "KP0104",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0103",
+          "name": {
+            "local": "Kim Jong Suk",
+            "en": "Kim Jong Suk",
+            "slug": "kim-jong-suk-kp0103"
+          },
+          "code": {
+            "id": "KP0103",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0110",
+          "name": {
+            "local": "Paekam",
+            "en": "Paekam",
+            "slug": "paekam-kp0110"
+          },
+          "code": {
+            "id": "KP0110",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0112",
+          "name": {
+            "local": "Phungso",
+            "en": "Phungso",
+            "slug": "phungso-kp0112"
+          },
+          "code": {
+            "id": "KP0112",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0106",
+          "name": {
+            "local": "Pochon",
+            "en": "Pochon",
+            "slug": "pochon-kp0106"
+          },
+          "code": {
+            "id": "KP0106",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0107",
+          "name": {
+            "local": "Samjiyon",
+            "en": "Samjiyon",
+            "slug": "samjiyon-kp0107"
+          },
+          "code": {
+            "id": "KP0107",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0102",
+          "name": {
+            "local": "Samsu",
+            "en": "Samsu",
+            "slug": "samsu-kp0102"
+          },
+          "code": {
+            "id": "KP0102",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0108",
+          "name": {
+            "local": "Taehongdan",
+            "en": "Taehongdan",
+            "slug": "taehongdan-kp0108"
+          },
+          "code": {
+            "id": "KP0108",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0109",
+          "name": {
+            "local": "Unhung",
+            "en": "Unhung",
+            "slug": "unhung-kp0109"
+          },
+          "code": {
+            "id": "KP0109",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KP03",
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      },
+      "code": {
+        "id": "KP03",
+        "iso": null
+      },
+      "county": [
+        {
+          "id": "KP0307",
+          "name": {
+            "local": "Hamhung City",
+            "en": "Hamhung City",
+            "slug": "hamhung-city-kp0307"
+          },
+          "code": {
+            "id": "KP0307",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0310",
+          "name": {
+            "local": "Hamju",
+            "en": "Hamju",
+            "slug": "hamju-kp0310"
+          },
+          "code": {
+            "id": "KP0310",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0324",
+          "name": {
+            "local": "Hochon",
+            "en": "Hochon",
+            "slug": "hochon-kp0324"
+          },
+          "code": {
+            "id": "KP0324",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0320",
+          "name": {
+            "local": "Hongwon",
+            "en": "Hongwon",
+            "slug": "hongwon-kp0320"
+          },
+          "code": {
+            "id": "KP0320",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0314",
+          "name": {
+            "local": "Jangjin",
+            "en": "Jangjin",
+            "slug": "jangjin-kp0314"
+          },
+          "code": {
+            "id": "KP0314",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0315",
+          "name": {
+            "local": "Jongphyong",
+            "en": "Jongphyong",
+            "slug": "jongphyong-kp0315"
+          },
+          "code": {
+            "id": "KP0315",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0318",
+          "name": {
+            "local": "Kowon",
+            "en": "Kowon",
+            "slug": "kowon-kp0318"
+          },
+          "code": {
+            "id": "KP0318",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0326",
+          "name": {
+            "local": "Kumho",
+            "en": "Kumho",
+            "slug": "kumho-kp0326"
+          },
+          "code": {
+            "id": "KP0326",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0316",
+          "name": {
+            "local": "Kumya",
+            "en": "Kumya",
+            "slug": "kumya-kp0316"
+          },
+          "code": {
+            "id": "KP0316",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0313",
+          "name": {
+            "local": "Pujon",
+            "en": "Pujon",
+            "slug": "pujon-kp0313"
+          },
+          "code": {
+            "id": "KP0313",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0321",
+          "name": {
+            "local": "Pukchong",
+            "en": "Pukchong",
+            "slug": "pukchong-kp0321"
+          },
+          "code": {
+            "id": "KP0321",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0319",
+          "name": {
+            "local": "Rakwon",
+            "en": "Rakwon",
+            "slug": "rakwon-kp0319"
+          },
+          "code": {
+            "id": "KP0319",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0323",
+          "name": {
+            "local": "Riwon",
+            "en": "Riwon",
+            "slug": "riwon-kp0323"
+          },
+          "code": {
+            "id": "KP0323",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0312",
+          "name": {
+            "local": "Sinhung",
+            "en": "Sinhung",
+            "slug": "sinhung-kp0312"
+          },
+          "code": {
+            "id": "KP0312",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0301",
+          "name": {
+            "local": "Sinpho City",
+            "en": "Sinpho City",
+            "slug": "sinpho-city-kp0301"
+          },
+          "code": {
+            "id": "KP0301",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0325",
+          "name": {
+            "local": "Sudong",
+            "en": "Sudong",
+            "slug": "sudong-kp0325"
+          },
+          "code": {
+            "id": "KP0325",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0302",
+          "name": {
+            "local": "Tanchon City",
+            "en": "Tanchon City",
+            "slug": "tanchon-city-kp0302"
+          },
+          "code": {
+            "id": "KP0302",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0322",
+          "name": {
+            "local": "Toksong",
+            "en": "Toksong",
+            "slug": "toksong-kp0322"
+          },
+          "code": {
+            "id": "KP0322",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0317",
+          "name": {
+            "local": "Yodok",
+            "en": "Yodok",
+            "slug": "yodok-kp0317"
+          },
+          "code": {
+            "id": "KP0317",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0311",
+          "name": {
+            "local": "Yonggwang",
+            "en": "Yonggwang",
+            "slug": "yonggwang-kp0311"
+          },
+          "code": {
+            "id": "KP0311",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KP09",
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      },
+      "code": {
+        "id": "KP09",
+        "iso": null
+      },
+      "county": [
+        {
+          "id": "KP0910",
+          "name": {
+            "local": "Anak",
+            "en": "Anak",
+            "slug": "anak-kp0910"
+          },
+          "code": {
+            "id": "KP0910",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0917",
+          "name": {
+            "local": "Chongdan",
+            "en": "Chongdan",
+            "slug": "chongdan-kp0917"
+          },
+          "code": {
+            "id": "KP0917",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0901",
+          "name": {
+            "local": "Haeju City",
+            "en": "Haeju City",
+            "slug": "haeju-city-kp0901"
+          },
+          "code": {
+            "id": "KP0901",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0912",
+          "name": {
+            "local": "Jaerong",
+            "en": "Jaerong",
+            "slug": "jaerong-kp0912"
+          },
+          "code": {
+            "id": "KP0912",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0905",
+          "name": {
+            "local": "Jangyon",
+            "en": "Jangyon",
+            "slug": "jangyon-kp0905"
+          },
+          "code": {
+            "id": "KP0905",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0902",
+          "name": {
+            "local": "Kangryong",
+            "en": "Kangryong",
+            "slug": "kangryong-kp0902"
+          },
+          "code": {
+            "id": "KP0902",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0919",
+          "name": {
+            "local": "Kwail",
+            "en": "Kwail",
+            "slug": "kwail-kp0919"
+          },
+          "code": {
+            "id": "KP0919",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0903",
+          "name": {
+            "local": "Ongjin",
+            "en": "Ongjin",
+            "slug": "ongjin-kp0903"
+          },
+          "code": {
+            "id": "KP0903",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0915",
+          "name": {
+            "local": "Paechon",
+            "en": "Paechon",
+            "slug": "paechon-kp0915"
+          },
+          "code": {
+            "id": "KP0915",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0914",
+          "name": {
+            "local": "Pongchon",
+            "en": "Pongchon",
+            "slug": "pongchon-kp0914"
+          },
+          "code": {
+            "id": "KP0914",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0920",
+          "name": {
+            "local": "Pyoksong",
+            "en": "Pyoksong",
+            "slug": "pyoksong-kp0920"
+          },
+          "code": {
+            "id": "KP0920",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0918",
+          "name": {
+            "local": "Ryongyon",
+            "en": "Ryongyon",
+            "slug": "ryongyon-kp0918"
+          },
+          "code": {
+            "id": "KP0918",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0906",
+          "name": {
+            "local": "Samchon",
+            "en": "Samchon",
+            "slug": "samchon-kp0906"
+          },
+          "code": {
+            "id": "KP0906",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0911",
+          "name": {
+            "local": "Sinchon",
+            "en": "Sinchon",
+            "slug": "sinchon-kp0911"
+          },
+          "code": {
+            "id": "KP0911",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0913",
+          "name": {
+            "local": "Sinwon",
+            "en": "Sinwon",
+            "slug": "sinwon-kp0913"
+          },
+          "code": {
+            "id": "KP0913",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0907",
+          "name": {
+            "local": "Songhwa",
+            "en": "Songhwa",
+            "slug": "songhwa-kp0907"
+          },
+          "code": {
+            "id": "KP0907",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0904",
+          "name": {
+            "local": "Thaethan",
+            "en": "Thaethan",
+            "slug": "thaethan-kp0904"
+          },
+          "code": {
+            "id": "KP0904",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0909",
+          "name": {
+            "local": "Unchon",
+            "en": "Unchon",
+            "slug": "unchon-kp0909"
+          },
+          "code": {
+            "id": "KP0909",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0908",
+          "name": {
+            "local": "Unryul",
+            "en": "Unryul",
+            "slug": "unryul-kp0908"
+          },
+          "code": {
+            "id": "KP0908",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0916",
+          "name": {
+            "local": "Yonan",
+            "en": "Yonan",
+            "slug": "yonan-kp0916"
+          },
+          "code": {
+            "id": "KP0916",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KP07",
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      },
+      "code": {
+        "id": "KP07",
+        "iso": null
+      },
+      "county": [
+        {
+          "id": "KP0703",
+          "name": {
+            "local": "Anju City",
+            "en": "Anju City",
+            "slug": "anju-city-kp0703"
+          },
+          "code": {
+            "id": "KP0703",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0726",
+          "name": {
+            "local": "Chongnam",
+            "en": "Chongnam",
+            "slug": "chongnam-kp0726"
+          },
+          "code": {
+            "id": "KP0726",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0723",
+          "name": {
+            "local": "Hoechang",
+            "en": "Hoechang",
+            "slug": "hoechang-kp0723"
+          },
+          "code": {
+            "id": "KP0723",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0708",
+          "name": {
+            "local": "Jungsan",
+            "en": "Jungsan",
+            "slug": "jungsan-kp0708"
+          },
+          "code": {
+            "id": "KP0708",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0704",
+          "name": {
+            "local": "Kaechon City",
+            "en": "Kaechon City",
+            "slug": "kaechon-city-kp0704"
+          },
+          "code": {
+            "id": "KP0704",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0722",
+          "name": {
+            "local": "Maengsan",
+            "en": "Maengsan",
+            "slug": "maengsan-kp0722"
+          },
+          "code": {
+            "id": "KP0722",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0716",
+          "name": {
+            "local": "Mundok",
+            "en": "Mundok",
+            "slug": "mundok-kp0716"
+          },
+          "code": {
+            "id": "KP0716",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0724",
+          "name": {
+            "local": "Nyongwon",
+            "en": "Nyongwon",
+            "slug": "nyongwon-kp0724"
+          },
+          "code": {
+            "id": "KP0724",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0721",
+          "name": {
+            "local": "Pukchang",
+            "en": "Pukchang",
+            "slug": "pukchang-kp0721"
+          },
+          "code": {
+            "id": "KP0721",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0701",
+          "name": {
+            "local": "Pyongsong City",
+            "en": "Pyongsong City",
+            "slug": "pyongsong-city-kp0701"
+          },
+          "code": {
+            "id": "KP0701",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0714",
+          "name": {
+            "local": "Pyongwon",
+            "en": "Pyongwon",
+            "slug": "pyongwon-kp0714"
+          },
+          "code": {
+            "id": "KP0714",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0718",
+          "name": {
+            "local": "Sinyang",
+            "en": "Sinyang",
+            "slug": "sinyang-kp0718"
+          },
+          "code": {
+            "id": "KP0718",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0717",
+          "name": {
+            "local": "Songchon",
+            "en": "Songchon",
+            "slug": "songchon-kp0717"
+          },
+          "code": {
+            "id": "KP0717",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0715",
+          "name": {
+            "local": "Sukchon",
+            "en": "Sukchon",
+            "slug": "sukchon-kp0715"
+          },
+          "code": {
+            "id": "KP0715",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0705",
+          "name": {
+            "local": "Sunchon City",
+            "en": "Sunchon City",
+            "slug": "sunchon-city-kp0705"
+          },
+          "code": {
+            "id": "KP0705",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0707",
+          "name": {
+            "local": "Taedong",
+            "en": "Taedong",
+            "slug": "taedong-kp0707"
+          },
+          "code": {
+            "id": "KP0707",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0725",
+          "name": {
+            "local": "Taehung",
+            "en": "Taehung",
+            "slug": "taehung-kp0725"
+          },
+          "code": {
+            "id": "KP0725",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0706",
+          "name": {
+            "local": "Tokchon City",
+            "en": "Tokchon City",
+            "slug": "tokchon-city-kp0706"
+          },
+          "code": {
+            "id": "KP0706",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0727",
+          "name": {
+            "local": "Tukjang",
+            "en": "Tukjang",
+            "slug": "tukjang-kp0727"
+          },
+          "code": {
+            "id": "KP0727",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0720",
+          "name": {
+            "local": "Unsan",
+            "en": "Unsan",
+            "slug": "unsan-kp0720"
+          },
+          "code": {
+            "id": "KP0720",
+            "iso": null
+          }
+        },
+        {
+          "id": "KP0719",
+          "name": {
+            "local": "Yangdok",
+            "en": "Yangdok",
+            "slug": "yangdok-kp0719"
+          },
+          "code": {
+            "id": "KP0719",
+            "iso": null
+          }
+        }
+      ]
+    }
+  ]
+}

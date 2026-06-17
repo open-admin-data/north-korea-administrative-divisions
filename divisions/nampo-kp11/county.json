@@ -1,0 +1,272 @@
+[
+  {
+    "id": "KP1107",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Chollima",
+      "en": "Chollima",
+      "slug": "chollima-kp1107"
+    },
+    "code": {
+      "id": "KP1107",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP11",
+      "level": 1,
+      "name": {
+        "local": "Nampo",
+        "en": "Nampo",
+        "slug": "nampo-kp11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP11",
+        "level": 1,
+        "name": {
+          "local": "Nampo",
+          "en": "Nampo",
+          "slug": "nampo-kp11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.952",
+      "lon": "125.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP1106",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kangso",
+      "en": "Kangso",
+      "slug": "kangso-kp1106"
+    },
+    "code": {
+      "id": "KP1106",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP11",
+      "level": 1,
+      "name": {
+        "local": "Nampo",
+        "en": "Nampo",
+        "slug": "nampo-kp11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP11",
+        "level": 1,
+        "name": {
+          "local": "Nampo",
+          "en": "Nampo",
+          "slug": "nampo-kp11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.954",
+      "lon": "125.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP1102",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Nampo City",
+      "en": "Nampo City",
+      "slug": "nampo-city-kp1102"
+    },
+    "code": {
+      "id": "KP1102",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP11",
+      "level": 1,
+      "name": {
+        "local": "Nampo",
+        "en": "Nampo",
+        "slug": "nampo-kp11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP11",
+        "level": 1,
+        "name": {
+          "local": "Nampo",
+          "en": "Nampo",
+          "slug": "nampo-kp11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.733",
+      "lon": "125.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP1103",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Onchon",
+      "en": "Onchon",
+      "slug": "onchon-kp1103"
+    },
+    "code": {
+      "id": "KP1103",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP11",
+      "level": 1,
+      "name": {
+        "local": "Nampo",
+        "en": "Nampo",
+        "slug": "nampo-kp11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP11",
+        "level": 1,
+        "name": {
+          "local": "Nampo",
+          "en": "Nampo",
+          "slug": "nampo-kp11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.867",
+      "lon": "125.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP1104",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ryonggang",
+      "en": "Ryonggang",
+      "slug": "ryonggang-kp1104"
+    },
+    "code": {
+      "id": "KP1104",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP11",
+      "level": 1,
+      "name": {
+        "local": "Nampo",
+        "en": "Nampo",
+        "slug": "nampo-kp11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP11",
+        "level": 1,
+        "name": {
+          "local": "Nampo",
+          "en": "Nampo",
+          "slug": "nampo-kp11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.812",
+      "lon": "125.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP1105",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Taean",
+      "en": "Taean",
+      "slug": "taean-kp1105"
+    },
+    "code": {
+      "id": "KP1105",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP11",
+      "level": 1,
+      "name": {
+        "local": "Nampo",
+        "en": "Nampo",
+        "slug": "nampo-kp11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP11",
+        "level": 1,
+        "name": {
+          "local": "Nampo",
+          "en": "Nampo",
+          "slug": "nampo-kp11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.824",
+      "lon": "125.505"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

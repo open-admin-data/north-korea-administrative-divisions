@@ -1,0 +1,24 @@
+# Pyongyang — North Korea Administrative Divisions
+
+> 3 countys
+> Code: KP10
+> Coordinates: 39.086, 125.929
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Countys
+
+### Kangdong
+
+Code: KP1023, Coordinates: 39.079, 126.149
+
+
+### Pyongyang
+
+Code: KP1001, Coordinates: 39.092, 125.823
+
+
+### Unjong Dist.
+
+Code: KP1007, Coordinates: 39.21, 125.858
+
+

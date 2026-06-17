@@ -1,0 +1,45 @@
+{
+  "id": "KP0909",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Unchon",
+    "en": "Unchon",
+    "slug": "unchon-kp0909"
+  },
+  "code": {
+    "id": "KP0909",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP09",
+    "level": 1,
+    "name": {
+      "local": "South Hwanghae",
+      "en": "South Hwanghae",
+      "slug": "south-hwanghae-kp09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.594",
+    "lon": "125.498"
+  },
+  "metadata": {},
+  "source": {}
+}

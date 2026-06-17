@@ -1,0 +1,45 @@
+{
+  "id": "KP0503",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Huichon City",
+    "en": "Huichon City",
+    "slug": "huichon-city-kp0503"
+  },
+  "code": {
+    "id": "KP0503",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP05",
+    "level": 1,
+    "name": {
+      "local": "Jagang",
+      "en": "Jagang",
+      "slug": "jagang-kp05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.151",
+    "lon": "126.165"
+  },
+  "metadata": {},
+  "source": {}
+}

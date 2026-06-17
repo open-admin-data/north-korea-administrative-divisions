@@ -1,0 +1,45 @@
+{
+  "id": "KP0706",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Tokchon City",
+    "en": "Tokchon City",
+    "slug": "tokchon-city-kp0706"
+  },
+  "code": {
+    "id": "KP0706",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP07",
+    "level": 1,
+    "name": {
+      "local": "South Pyongan",
+      "en": "South Pyongan",
+      "slug": "south-pyongan-kp07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.773",
+    "lon": "126.337"
+  },
+  "metadata": {},
+  "source": {}
+}

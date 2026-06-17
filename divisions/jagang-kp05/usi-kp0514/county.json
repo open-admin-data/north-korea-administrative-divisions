@@ -1,0 +1,45 @@
+{
+  "id": "KP0514",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Usi",
+    "en": "Usi",
+    "slug": "usi-kp0514"
+  },
+  "code": {
+    "id": "KP0514",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP05",
+    "level": 1,
+    "name": {
+      "local": "Jagang",
+      "en": "Jagang",
+      "slug": "jagang-kp05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.579",
+    "lon": "125.607"
+  },
+  "metadata": {},
+  "source": {}
+}

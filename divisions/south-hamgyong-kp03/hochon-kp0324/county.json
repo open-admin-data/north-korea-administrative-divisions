@@ -1,0 +1,45 @@
+{
+  "id": "KP0324",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Hochon",
+    "en": "Hochon",
+    "slug": "hochon-kp0324"
+  },
+  "code": {
+    "id": "KP0324",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP03",
+    "level": 1,
+    "name": {
+      "local": "South Hamgyong",
+      "en": "South Hamgyong",
+      "slug": "south-hamgyong-kp03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.871",
+    "lon": "128.599"
+  },
+  "metadata": {},
+  "source": {}
+}

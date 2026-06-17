@@ -1,0 +1,45 @@
+{
+  "id": "KP0727",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Tukjang",
+    "en": "Tukjang",
+    "slug": "tukjang-kp0727"
+  },
+  "code": {
+    "id": "KP0727",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP07",
+    "level": 1,
+    "name": {
+      "local": "South Pyongan",
+      "en": "South Pyongan",
+      "slug": "south-pyongan-kp07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.613",
+    "lon": "126.143"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "KP0724",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Nyongwon",
+    "en": "Nyongwon",
+    "slug": "nyongwon-kp0724"
+  },
+  "code": {
+    "id": "KP0724",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP07",
+    "level": 1,
+    "name": {
+      "local": "South Pyongan",
+      "en": "South Pyongan",
+      "slug": "south-pyongan-kp07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.974",
+    "lon": "126.581"
+  },
+  "metadata": {},
+  "source": {}
+}

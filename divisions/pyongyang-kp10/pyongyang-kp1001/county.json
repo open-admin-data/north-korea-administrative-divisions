@@ -1,0 +1,45 @@
+{
+  "id": "KP1001",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Pyongyang",
+    "en": "Pyongyang",
+    "slug": "pyongyang-kp1001"
+  },
+  "code": {
+    "id": "KP1001",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP10",
+    "level": 1,
+    "name": {
+      "local": "Pyongyang",
+      "en": "Pyongyang",
+      "slug": "pyongyang-kp10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP10",
+      "level": 1,
+      "name": {
+        "local": "Pyongyang",
+        "en": "Pyongyang",
+        "slug": "pyongyang-kp10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.092",
+    "lon": "125.823"
+  },
+  "metadata": {},
+  "source": {}
+}

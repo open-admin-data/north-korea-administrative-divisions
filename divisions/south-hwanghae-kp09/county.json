@@ -1,0 +1,902 @@
+[
+  {
+    "id": "KP0910",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Anak",
+      "en": "Anak",
+      "slug": "anak-kp0910"
+    },
+    "code": {
+      "id": "KP0910",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.465",
+      "lon": "125.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0917",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Chongdan",
+      "en": "Chongdan",
+      "slug": "chongdan-kp0917"
+    },
+    "code": {
+      "id": "KP0917",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.007",
+      "lon": "125.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0901",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Haeju City",
+      "en": "Haeju City",
+      "slug": "haeju-city-kp0901"
+    },
+    "code": {
+      "id": "KP0901",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.063",
+      "lon": "125.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0912",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jaerong",
+      "en": "Jaerong",
+      "slug": "jaerong-kp0912"
+    },
+    "code": {
+      "id": "KP0912",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.44",
+      "lon": "125.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0905",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jangyon",
+      "en": "Jangyon",
+      "slug": "jangyon-kp0905"
+    },
+    "code": {
+      "id": "KP0905",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.252",
+      "lon": "125.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0902",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kangryong",
+      "en": "Kangryong",
+      "slug": "kangryong-kp0902"
+    },
+    "code": {
+      "id": "KP0902",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.845",
+      "lon": "125.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0919",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kwail",
+      "en": "Kwail",
+      "slug": "kwail-kp0919"
+    },
+    "code": {
+      "id": "KP0919",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.426",
+      "lon": "124.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0903",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ongjin",
+      "en": "Ongjin",
+      "slug": "ongjin-kp0903"
+    },
+    "code": {
+      "id": "KP0903",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.926",
+      "lon": "125.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0915",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Paechon",
+      "en": "Paechon",
+      "slug": "paechon-kp0915"
+    },
+    "code": {
+      "id": "KP0915",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.964",
+      "lon": "126.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0914",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pongchon",
+      "en": "Pongchon",
+      "slug": "pongchon-kp0914"
+    },
+    "code": {
+      "id": "KP0914",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.149",
+      "lon": "126.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0920",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pyoksong",
+      "en": "Pyoksong",
+      "slug": "pyoksong-kp0920"
+    },
+    "code": {
+      "id": "KP0920",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.099",
+      "lon": "125.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0918",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ryongyon",
+      "en": "Ryongyon",
+      "slug": "ryongyon-kp0918"
+    },
+    "code": {
+      "id": "KP0918",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.146",
+      "lon": "124.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0906",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Samchon",
+      "en": "Samchon",
+      "slug": "samchon-kp0906"
+    },
+    "code": {
+      "id": "KP0906",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.339",
+      "lon": "125.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0911",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sinchon",
+      "en": "Sinchon",
+      "slug": "sinchon-kp0911"
+    },
+    "code": {
+      "id": "KP0911",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.303",
+      "lon": "125.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0913",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sinwon",
+      "en": "Sinwon",
+      "slug": "sinwon-kp0913"
+    },
+    "code": {
+      "id": "KP0913",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.212",
+      "lon": "125.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0907",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Songhwa",
+      "en": "Songhwa",
+      "slug": "songhwa-kp0907"
+    },
+    "code": {
+      "id": "KP0907",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.356",
+      "lon": "125.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0904",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Thaethan",
+      "en": "Thaethan",
+      "slug": "thaethan-kp0904"
+    },
+    "code": {
+      "id": "KP0904",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.144",
+      "lon": "125.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0909",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Unchon",
+      "en": "Unchon",
+      "slug": "unchon-kp0909"
+    },
+    "code": {
+      "id": "KP0909",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.594",
+      "lon": "125.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0908",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Unryul",
+      "en": "Unryul",
+      "slug": "unryul-kp0908"
+    },
+    "code": {
+      "id": "KP0908",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.513",
+      "lon": "125.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0916",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Yonan",
+      "en": "Yonan",
+      "slug": "yonan-kp0916"
+    },
+    "code": {
+      "id": "KP0916",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.91",
+      "lon": "126.08"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

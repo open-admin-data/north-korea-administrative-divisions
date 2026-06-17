@@ -1,0 +1,33 @@
+{
+  "id": "KP03",
+  "level": 1,
+  "level_name": {
+    "local": "도",
+    "en": "Province"
+  },
+  "name": {
+    "local": "South Hamgyong",
+    "en": "South Hamgyong",
+    "slug": "south-hamgyong-kp03"
+  },
+  "code": {
+    "id": "KP03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.191",
+    "lon": "127.876"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kp/provinces/south-hamgyong-kp03/",
+    "api": "https://openadmindata.org/api/kp/"
+  }
+}

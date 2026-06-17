@@ -1,0 +1,45 @@
+{
+  "id": "KP0216",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kyongsong",
+    "en": "Kyongsong",
+    "slug": "kyongsong-kp0216"
+  },
+  "code": {
+    "id": "KP0216",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP02",
+    "level": 1,
+    "name": {
+      "local": "North Hamgyong",
+      "en": "North Hamgyong",
+      "slug": "north-hamgyong-kp02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP02",
+      "level": 1,
+      "name": {
+        "local": "North Hamgyong",
+        "en": "North Hamgyong",
+        "slug": "north-hamgyong-kp02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.68",
+    "lon": "129.468"
+  },
+  "metadata": {},
+  "source": {}
+}

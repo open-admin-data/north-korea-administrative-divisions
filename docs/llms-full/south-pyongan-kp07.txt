@@ -1,0 +1,114 @@
+# South Pyongan — North Korea Administrative Divisions
+
+> 21 countys
+> Code: KP07
+> Coordinates: 39.625, 126.166
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Countys
+
+### Anju City
+
+Code: KP0703, Coordinates: 39.589, 125.714
+
+
+### Chongnam
+
+Code: KP0726, Coordinates: 39.477, 125.451
+
+
+### Hoechang
+
+Code: KP0723, Coordinates: 39.077, 126.425
+
+
+### Jungsan
+
+Code: KP0708, Coordinates: 39.098, 125.391
+
+
+### Kaechon City
+
+Code: KP0704, Coordinates: 39.699, 125.979
+
+
+### Maengsan
+
+Code: KP0722, Coordinates: 39.68, 126.599
+
+
+### Mundok
+
+Code: KP0716, Coordinates: 39.512, 125.564
+
+
+### Nyongwon
+
+Code: KP0724, Coordinates: 39.974, 126.581
+
+
+### Pukchang
+
+Code: KP0721, Coordinates: 39.559, 126.268
+
+
+### Pyongsong City
+
+Code: KP0701, Coordinates: 39.321, 125.885
+
+
+### Pyongwon
+
+Code: KP0714, Coordinates: 39.283, 125.56
+
+
+### Sinyang
+
+Code: KP0718, Coordinates: 39.353, 126.565
+
+
+### Songchon
+
+Code: KP0717, Coordinates: 39.298, 126.195
+
+
+### Sukchon
+
+Code: KP0715, Coordinates: 39.388, 125.548
+
+
+### Sunchon City
+
+Code: KP0705, Coordinates: 39.49, 125.953
+
+
+### Taedong
+
+Code: KP0707, Coordinates: 39.104, 125.567
+
+
+### Taehung
+
+Code: KP0725, Coordinates: 40.079, 126.959
+
+
+### Tokchon City
+
+Code: KP0706, Coordinates: 39.773, 126.337
+
+
+### Tukjang
+
+Code: KP0727, Coordinates: 39.613, 126.143
+
+
+### Unsan
+
+Code: KP0720, Coordinates: 39.429, 126.135
+
+
+### Yangdok
+
+Code: KP0719, Coordinates: 39.184, 126.816
+
+

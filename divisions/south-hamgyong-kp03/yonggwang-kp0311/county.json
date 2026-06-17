@@ -1,0 +1,45 @@
+{
+  "id": "KP0311",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Yonggwang",
+    "en": "Yonggwang",
+    "slug": "yonggwang-kp0311"
+  },
+  "code": {
+    "id": "KP0311",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP03",
+    "level": 1,
+    "name": {
+      "local": "South Hamgyong",
+      "en": "South Hamgyong",
+      "slug": "south-hamgyong-kp03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.077",
+    "lon": "127.318"
+  },
+  "metadata": {},
+  "source": {}
+}

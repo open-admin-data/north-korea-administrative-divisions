@@ -1,0 +1,45 @@
+{
+  "id": "KP0415",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Phangyo",
+    "en": "Phangyo",
+    "slug": "phangyo-kp0415"
+  },
+  "code": {
+    "id": "KP0415",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP04",
+    "level": 1,
+    "name": {
+      "local": "Kangwon",
+      "en": "Kangwon",
+      "slug": "kangwon-kp04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.743",
+    "lon": "126.973"
+  },
+  "metadata": {},
+  "source": {}
+}

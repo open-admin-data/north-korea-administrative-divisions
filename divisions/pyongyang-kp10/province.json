@@ -1,0 +1,33 @@
+{
+  "id": "KP10",
+  "level": 1,
+  "level_name": {
+    "local": "도",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Pyongyang",
+    "en": "Pyongyang",
+    "slug": "pyongyang-kp10"
+  },
+  "code": {
+    "id": "KP10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.086",
+    "lon": "125.929"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kp/provinces/pyongyang-kp10/",
+    "api": "https://openadmindata.org/api/kp/"
+  }
+}

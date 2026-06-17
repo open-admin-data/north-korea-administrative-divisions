@@ -1,0 +1,45 @@
+{
+  "id": "KP0726",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Chongnam",
+    "en": "Chongnam",
+    "slug": "chongnam-kp0726"
+  },
+  "code": {
+    "id": "KP0726",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP07",
+    "level": 1,
+    "name": {
+      "local": "South Pyongan",
+      "en": "South Pyongan",
+      "slug": "south-pyongan-kp07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.477",
+    "lon": "125.451"
+  },
+  "metadata": {},
+  "source": {}
+}

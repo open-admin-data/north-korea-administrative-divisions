@@ -1,0 +1,45 @@
+{
+  "id": "KP0515",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kophung",
+    "en": "Kophung",
+    "slug": "kophung-kp0515"
+  },
+  "code": {
+    "id": "KP0515",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP05",
+    "level": 1,
+    "name": {
+      "local": "Jagang",
+      "en": "Jagang",
+      "slug": "jagang-kp05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.574",
+    "lon": "125.871"
+  },
+  "metadata": {},
+  "source": {}
+}

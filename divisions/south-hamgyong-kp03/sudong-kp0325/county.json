@@ -1,0 +1,45 @@
+{
+  "id": "KP0325",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Sudong",
+    "en": "Sudong",
+    "slug": "sudong-kp0325"
+  },
+  "code": {
+    "id": "KP0325",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP03",
+    "level": 1,
+    "name": {
+      "local": "South Hamgyong",
+      "en": "South Hamgyong",
+      "slug": "south-hamgyong-kp03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.365",
+    "lon": "126.863"
+  },
+  "metadata": {},
+  "source": {}
+}

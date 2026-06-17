@@ -1,0 +1,365 @@
+[
+  {
+    "id": "KP05",
+    "level": 1,
+    "level_name": {
+      "local": "도",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Jagang",
+      "en": "Jagang",
+      "slug": "jagang-kp05"
+    },
+    "code": {
+      "id": "KP05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "county": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.9",
+      "lon": "126.711"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kp/provinces/jagang-kp05/",
+      "api": "https://openadmindata.org/api/kp/"
+    }
+  },
+  {
+    "id": "KP04",
+    "level": 1,
+    "level_name": {
+      "local": "도",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Kangwon",
+      "en": "Kangwon",
+      "slug": "kangwon-kp04"
+    },
+    "code": {
+      "id": "KP04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "county": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.788",
+      "lon": "127.508"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kp/provinces/kangwon-kp04/",
+      "api": "https://openadmindata.org/api/kp/"
+    }
+  },
+  {
+    "id": "KP11",
+    "level": 1,
+    "level_name": {
+      "local": "도",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Nampo",
+      "en": "Nampo",
+      "slug": "nampo-kp11"
+    },
+    "code": {
+      "id": "KP11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "county": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.848",
+      "lon": "125.335"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kp/provinces/nampo-kp11/",
+      "api": "https://openadmindata.org/api/kp/"
+    }
+  },
+  {
+    "id": "KP02",
+    "level": 1,
+    "level_name": {
+      "local": "도",
+      "en": "Province"
+    },
+    "name": {
+      "local": "North Hamgyong",
+      "en": "North Hamgyong",
+      "slug": "north-hamgyong-kp02"
+    },
+    "code": {
+      "id": "KP02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "county": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.791",
+      "lon": "129.395"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kp/provinces/north-hamgyong-kp02/",
+      "api": "https://openadmindata.org/api/kp/"
+    }
+  },
+  {
+    "id": "KP08",
+    "level": 1,
+    "level_name": {
+      "local": "도",
+      "en": "Province"
+    },
+    "name": {
+      "local": "North Hwanghae",
+      "en": "North Hwanghae",
+      "slug": "north-hwanghae-kp08"
+    },
+    "code": {
+      "id": "KP08",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "county": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.471",
+      "lon": "126.206"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kp/provinces/north-hwanghae-kp08/",
+      "api": "https://openadmindata.org/api/kp/"
+    }
+  },
+  {
+    "id": "KP06",
+    "level": 1,
+    "level_name": {
+      "local": "도",
+      "en": "Province"
+    },
+    "name": {
+      "local": "North Pyongan",
+      "en": "North Pyongan",
+      "slug": "north-pyongan-kp06"
+    },
+    "code": {
+      "id": "KP06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "county": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.088",
+      "lon": "125.243"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kp/provinces/north-pyongan-kp06/",
+      "api": "https://openadmindata.org/api/kp/"
+    }
+  },
+  {
+    "id": "KP10",
+    "level": 1,
+    "level_name": {
+      "local": "도",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Pyongyang",
+      "en": "Pyongyang",
+      "slug": "pyongyang-kp10"
+    },
+    "code": {
+      "id": "KP10",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "county": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.086",
+      "lon": "125.929"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kp/provinces/pyongyang-kp10/",
+      "api": "https://openadmindata.org/api/kp/"
+    }
+  },
+  {
+    "id": "KP01",
+    "level": 1,
+    "level_name": {
+      "local": "도",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Ryanggang",
+      "en": "Ryanggang",
+      "slug": "ryanggang-kp01"
+    },
+    "code": {
+      "id": "KP01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "county": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.258",
+      "lon": "128.083"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kp/provinces/ryanggang-kp01/",
+      "api": "https://openadmindata.org/api/kp/"
+    }
+  },
+  {
+    "id": "KP03",
+    "level": 1,
+    "level_name": {
+      "local": "도",
+      "en": "Province"
+    },
+    "name": {
+      "local": "South Hamgyong",
+      "en": "South Hamgyong",
+      "slug": "south-hamgyong-kp03"
+    },
+    "code": {
+      "id": "KP03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "county": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.191",
+      "lon": "127.876"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kp/provinces/south-hamgyong-kp03/",
+      "api": "https://openadmindata.org/api/kp/"
+    }
+  },
+  {
+    "id": "KP09",
+    "level": 1,
+    "level_name": {
+      "local": "도",
+      "en": "Province"
+    },
+    "name": {
+      "local": "South Hwanghae",
+      "en": "South Hwanghae",
+      "slug": "south-hwanghae-kp09"
+    },
+    "code": {
+      "id": "KP09",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "county": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.191",
+      "lon": "125.419"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kp/provinces/south-hwanghae-kp09/",
+      "api": "https://openadmindata.org/api/kp/"
+    }
+  },
+  {
+    "id": "KP07",
+    "level": 1,
+    "level_name": {
+      "local": "도",
+      "en": "Province"
+    },
+    "name": {
+      "local": "South Pyongan",
+      "en": "South Pyongan",
+      "slug": "south-pyongan-kp07"
+    },
+    "code": {
+      "id": "KP07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "county": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.625",
+      "lon": "126.166"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kp/provinces/south-pyongan-kp07/",
+      "api": "https://openadmindata.org/api/kp/"
+    }
+  }
+]

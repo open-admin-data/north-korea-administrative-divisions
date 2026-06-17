@@ -1,0 +1,45 @@
+{
+  "id": "KP0623",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Changsong",
+    "en": "Changsong",
+    "slug": "changsong-kp0623"
+  },
+  "code": {
+    "id": "KP0623",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP06",
+    "level": 1,
+    "name": {
+      "local": "North Pyongan",
+      "en": "North Pyongan",
+      "slug": "north-pyongan-kp06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.389",
+    "lon": "125.248"
+  },
+  "metadata": {},
+  "source": {}
+}

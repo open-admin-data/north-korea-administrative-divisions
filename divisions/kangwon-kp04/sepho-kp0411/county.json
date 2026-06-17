@@ -1,0 +1,45 @@
+{
+  "id": "KP0411",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Sepho",
+    "en": "Sepho",
+    "slug": "sepho-kp0411"
+  },
+  "code": {
+    "id": "KP0411",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP04",
+    "level": 1,
+    "name": {
+      "local": "Kangwon",
+      "en": "Kangwon",
+      "slug": "kangwon-kp04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.695",
+    "lon": "127.286"
+  },
+  "metadata": {},
+  "source": {}
+}

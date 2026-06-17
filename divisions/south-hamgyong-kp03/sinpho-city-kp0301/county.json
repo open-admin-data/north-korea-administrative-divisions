@@ -1,0 +1,45 @@
+{
+  "id": "KP0301",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Sinpho City",
+    "en": "Sinpho City",
+    "slug": "sinpho-city-kp0301"
+  },
+  "code": {
+    "id": "KP0301",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP03",
+    "level": 1,
+    "name": {
+      "local": "South Hamgyong",
+      "en": "South Hamgyong",
+      "slug": "south-hamgyong-kp03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.066",
+    "lon": "128.215"
+  },
+  "metadata": {},
+  "source": {}
+}

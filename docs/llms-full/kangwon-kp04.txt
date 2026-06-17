@@ -1,0 +1,94 @@
+# Kangwon — North Korea Administrative Divisions
+
+> 17 countys
+> Code: KP04
+> Coordinates: 38.788, 127.508
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Countys
+
+### Anbyon
+
+Code: KP0403, Coordinates: 39.017, 127.562
+
+
+### Changdo
+
+Code: KP0408, Coordinates: 38.574, 127.796
+
+
+### Cholwon
+
+Code: KP0413, Coordinates: 38.32, 127.058
+
+
+### Chonnae
+
+Code: KP0417, Coordinates: 39.287, 127.159
+
+
+### Hoeyang
+
+Code: KP0410, Coordinates: 38.76, 127.596
+
+
+### Ichon
+
+Code: KP0414, Coordinates: 38.507, 126.866
+
+
+### Kimhwa
+
+Code: KP0409, Coordinates: 38.449, 127.586
+
+
+### Kosan
+
+Code: KP0404, Coordinates: 38.897, 127.42
+
+
+### Kosong
+
+Code: KP0406, Coordinates: 38.621, 128.269
+
+
+### Kumgang
+
+Code: KP0407, Coordinates: 38.543, 128.08
+
+
+### Munchon City
+
+Code: KP0402, Coordinates: 39.265, 127.29
+
+
+### Phangyo
+
+Code: KP0415, Coordinates: 38.743, 126.973
+
+
+### Phyonggang
+
+Code: KP0412, Coordinates: 38.47, 127.24
+
+
+### Popdong
+
+Code: KP0416, Coordinates: 38.997, 127.149
+
+
+### Sepho
+
+Code: KP0411, Coordinates: 38.695, 127.286
+
+
+### Thongchon
+
+Code: KP0405, Coordinates: 38.948, 127.789
+
+
+### Wonsan City
+
+Code: KP0401, Coordinates: 39.107, 127.365
+
+

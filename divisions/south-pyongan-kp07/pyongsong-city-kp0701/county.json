@@ -1,0 +1,45 @@
+{
+  "id": "KP0701",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Pyongsong City",
+    "en": "Pyongsong City",
+    "slug": "pyongsong-city-kp0701"
+  },
+  "code": {
+    "id": "KP0701",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP07",
+    "level": 1,
+    "name": {
+      "local": "South Pyongan",
+      "en": "South Pyongan",
+      "slug": "south-pyongan-kp07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.321",
+    "lon": "125.885"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "KP0817",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kumchon",
+    "en": "Kumchon",
+    "slug": "kumchon-kp0817"
+  },
+  "code": {
+    "id": "KP0817",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP08",
+    "level": 1,
+    "name": {
+      "local": "North Hwanghae",
+      "en": "North Hwanghae",
+      "slug": "north-hwanghae-kp08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.204",
+    "lon": "126.516"
+  },
+  "metadata": {},
+  "source": {}
+}

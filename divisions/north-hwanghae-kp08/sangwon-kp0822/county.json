@@ -1,0 +1,45 @@
+{
+  "id": "KP0822",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Sangwon",
+    "en": "Sangwon",
+    "slug": "sangwon-kp0822"
+  },
+  "code": {
+    "id": "KP0822",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP08",
+    "level": 1,
+    "name": {
+      "local": "North Hwanghae",
+      "en": "North Hwanghae",
+      "slug": "north-hwanghae-kp08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.861",
+    "lon": "126.058"
+  },
+  "metadata": {},
+  "source": {}
+}

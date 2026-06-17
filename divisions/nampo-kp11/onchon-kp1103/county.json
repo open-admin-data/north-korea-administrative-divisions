@@ -1,0 +1,45 @@
+{
+  "id": "KP1103",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Onchon",
+    "en": "Onchon",
+    "slug": "onchon-kp1103"
+  },
+  "code": {
+    "id": "KP1103",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP11",
+    "level": 1,
+    "name": {
+      "local": "Nampo",
+      "en": "Nampo",
+      "slug": "nampo-kp11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP11",
+      "level": 1,
+      "name": {
+        "local": "Nampo",
+        "en": "Nampo",
+        "slug": "nampo-kp11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.867",
+    "lon": "125.219"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "KP0221",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kyongwon",
+    "en": "Kyongwon",
+    "slug": "kyongwon-kp0221"
+  },
+  "code": {
+    "id": "KP0221",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP02",
+    "level": 1,
+    "name": {
+      "local": "North Hamgyong",
+      "en": "North Hamgyong",
+      "slug": "north-hamgyong-kp02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP02",
+      "level": 1,
+      "name": {
+        "local": "North Hamgyong",
+        "en": "North Hamgyong",
+        "slug": "north-hamgyong-kp02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.718",
+    "lon": "130.142"
+  },
+  "metadata": {},
+  "source": {}
+}

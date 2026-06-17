@@ -1,0 +1,45 @@
+{
+  "id": "KP0601",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Sinuiju City",
+    "en": "Sinuiju City",
+    "slug": "sinuiju-city-kp0601"
+  },
+  "code": {
+    "id": "KP0601",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP06",
+    "level": 1,
+    "name": {
+      "local": "North Pyongan",
+      "en": "North Pyongan",
+      "slug": "north-pyongan-kp06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.084",
+    "lon": "124.397"
+  },
+  "metadata": {},
+  "source": {}
+}

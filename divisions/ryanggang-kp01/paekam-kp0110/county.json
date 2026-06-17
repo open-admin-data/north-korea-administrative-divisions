@@ -1,0 +1,45 @@
+{
+  "id": "KP0110",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Paekam",
+    "en": "Paekam",
+    "slug": "paekam-kp0110"
+  },
+  "code": {
+    "id": "KP0110",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP01",
+    "level": 1,
+    "name": {
+      "local": "Ryanggang",
+      "en": "Ryanggang",
+      "slug": "ryanggang-kp01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.508",
+    "lon": "128.856"
+  },
+  "metadata": {},
+  "source": {}
+}

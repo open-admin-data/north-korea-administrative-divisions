@@ -1,0 +1,45 @@
+{
+  "id": "KP1104",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Ryonggang",
+    "en": "Ryonggang",
+    "slug": "ryonggang-kp1104"
+  },
+  "code": {
+    "id": "KP1104",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP11",
+    "level": 1,
+    "name": {
+      "local": "Nampo",
+      "en": "Nampo",
+      "slug": "nampo-kp11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP11",
+      "level": 1,
+      "name": {
+        "local": "Nampo",
+        "en": "Nampo",
+        "slug": "nampo-kp11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.812",
+    "lon": "125.392"
+  },
+  "metadata": {},
+  "source": {}
+}

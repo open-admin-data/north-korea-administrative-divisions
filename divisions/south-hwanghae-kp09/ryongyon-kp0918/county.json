@@ -1,0 +1,45 @@
+{
+  "id": "KP0918",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Ryongyon",
+    "en": "Ryongyon",
+    "slug": "ryongyon-kp0918"
+  },
+  "code": {
+    "id": "KP0918",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP09",
+    "level": 1,
+    "name": {
+      "local": "South Hwanghae",
+      "en": "South Hwanghae",
+      "slug": "south-hwanghae-kp09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.146",
+    "lon": "124.954"
+  },
+  "metadata": {},
+  "source": {}
+}

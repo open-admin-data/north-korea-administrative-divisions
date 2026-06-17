@@ -1,0 +1,45 @@
+{
+  "id": "KP0901",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Haeju City",
+    "en": "Haeju City",
+    "slug": "haeju-city-kp0901"
+  },
+  "code": {
+    "id": "KP0901",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP09",
+    "level": 1,
+    "name": {
+      "local": "South Hwanghae",
+      "en": "South Hwanghae",
+      "slug": "south-hwanghae-kp09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.063",
+    "lon": "125.687"
+  },
+  "metadata": {},
+  "source": {}
+}

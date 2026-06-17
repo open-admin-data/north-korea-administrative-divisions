@@ -1,0 +1,33 @@
+{
+  "id": "KP09",
+  "level": 1,
+  "level_name": {
+    "local": "도",
+    "en": "Province"
+  },
+  "name": {
+    "local": "South Hwanghae",
+    "en": "South Hwanghae",
+    "slug": "south-hwanghae-kp09"
+  },
+  "code": {
+    "id": "KP09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.191",
+    "lon": "125.419"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kp/provinces/south-hwanghae-kp09/",
+    "api": "https://openadmindata.org/api/kp/"
+  }
+}

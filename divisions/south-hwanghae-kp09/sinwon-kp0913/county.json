@@ -1,0 +1,45 @@
+{
+  "id": "KP0913",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Sinwon",
+    "en": "Sinwon",
+    "slug": "sinwon-kp0913"
+  },
+  "code": {
+    "id": "KP0913",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP09",
+    "level": 1,
+    "name": {
+      "local": "South Hwanghae",
+      "en": "South Hwanghae",
+      "slug": "south-hwanghae-kp09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.212",
+    "lon": "125.711"
+  },
+  "metadata": {},
+  "source": {}
+}

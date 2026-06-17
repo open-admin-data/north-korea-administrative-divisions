@@ -1,0 +1,99 @@
+# Jagang — North Korea Administrative Divisions
+
+> 18 countys
+> Code: KP05
+> Coordinates: 40.9, 126.711
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Countys
+
+### Chosan
+
+Code: KP0513, Coordinates: 40.773, 125.805
+
+
+### Huichon City
+
+Code: KP0503, Coordinates: 40.151, 126.165
+
+
+### Hwaphyong
+
+Code: KP0508, Coordinates: 41.221, 126.942
+
+
+### Janggang
+
+Code: KP0507, Coordinates: 41.064, 126.705
+
+
+### Jasong
+
+Code: KP0510, Coordinates: 41.451, 126.712
+
+
+### Jonchon
+
+Code: KP0505, Coordinates: 40.543, 126.298
+
+
+### Junggang
+
+Code: KP0509, Coordinates: 41.668, 126.858
+
+
+### Kanggye City
+
+Code: KP0501, Coordinates: 40.948, 126.594
+
+
+### Kophung
+
+Code: KP0515, Coordinates: 40.574, 125.871
+
+
+### Manpho City
+
+Code: KP0502, Coordinates: 41.163, 126.349
+
+
+### Rangrim
+
+Code: KP0504, Coordinates: 40.817, 127.16
+
+
+### Ryongrim
+
+Code: KP0518, Coordinates: 40.477, 126.722
+
+
+### Sijung
+
+Code: KP0511, Coordinates: 41.008, 126.395
+
+
+### Songgan
+
+Code: KP0506, Coordinates: 40.756, 126.652
+
+
+### Songwon
+
+Code: KP0516, Coordinates: 40.373, 125.879
+
+
+### Tongsin
+
+Code: KP0517, Coordinates: 40.217, 126.468
+
+
+### Usi
+
+Code: KP0514, Coordinates: 40.579, 125.607
+
+
+### Wiwon
+
+Code: KP0512, Coordinates: 40.772, 126.181
+
+

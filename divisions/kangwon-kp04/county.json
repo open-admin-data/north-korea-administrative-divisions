@@ -1,0 +1,767 @@
+[
+  {
+    "id": "KP0403",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Anbyon",
+      "en": "Anbyon",
+      "slug": "anbyon-kp0403"
+    },
+    "code": {
+      "id": "KP0403",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.017",
+      "lon": "127.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0408",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Changdo",
+      "en": "Changdo",
+      "slug": "changdo-kp0408"
+    },
+    "code": {
+      "id": "KP0408",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.574",
+      "lon": "127.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0413",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Cholwon",
+      "en": "Cholwon",
+      "slug": "cholwon-kp0413"
+    },
+    "code": {
+      "id": "KP0413",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.32",
+      "lon": "127.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0417",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Chonnae",
+      "en": "Chonnae",
+      "slug": "chonnae-kp0417"
+    },
+    "code": {
+      "id": "KP0417",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.287",
+      "lon": "127.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0410",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Hoeyang",
+      "en": "Hoeyang",
+      "slug": "hoeyang-kp0410"
+    },
+    "code": {
+      "id": "KP0410",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.76",
+      "lon": "127.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0414",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ichon",
+      "en": "Ichon",
+      "slug": "ichon-kp0414"
+    },
+    "code": {
+      "id": "KP0414",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.507",
+      "lon": "126.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0409",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kimhwa",
+      "en": "Kimhwa",
+      "slug": "kimhwa-kp0409"
+    },
+    "code": {
+      "id": "KP0409",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.449",
+      "lon": "127.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0404",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kosan",
+      "en": "Kosan",
+      "slug": "kosan-kp0404"
+    },
+    "code": {
+      "id": "KP0404",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.897",
+      "lon": "127.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0406",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kosong",
+      "en": "Kosong",
+      "slug": "kosong-kp0406"
+    },
+    "code": {
+      "id": "KP0406",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.621",
+      "lon": "128.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0407",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kumgang",
+      "en": "Kumgang",
+      "slug": "kumgang-kp0407"
+    },
+    "code": {
+      "id": "KP0407",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.543",
+      "lon": "128.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0402",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Munchon City",
+      "en": "Munchon City",
+      "slug": "munchon-city-kp0402"
+    },
+    "code": {
+      "id": "KP0402",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.265",
+      "lon": "127.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0415",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Phangyo",
+      "en": "Phangyo",
+      "slug": "phangyo-kp0415"
+    },
+    "code": {
+      "id": "KP0415",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.743",
+      "lon": "126.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0412",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Phyonggang",
+      "en": "Phyonggang",
+      "slug": "phyonggang-kp0412"
+    },
+    "code": {
+      "id": "KP0412",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.47",
+      "lon": "127.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0416",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Popdong",
+      "en": "Popdong",
+      "slug": "popdong-kp0416"
+    },
+    "code": {
+      "id": "KP0416",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.997",
+      "lon": "127.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0411",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sepho",
+      "en": "Sepho",
+      "slug": "sepho-kp0411"
+    },
+    "code": {
+      "id": "KP0411",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.695",
+      "lon": "127.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0405",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Thongchon",
+      "en": "Thongchon",
+      "slug": "thongchon-kp0405"
+    },
+    "code": {
+      "id": "KP0405",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.948",
+      "lon": "127.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0401",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wonsan City",
+      "en": "Wonsan City",
+      "slug": "wonsan-city-kp0401"
+    },
+    "code": {
+      "id": "KP0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.107",
+      "lon": "127.365"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

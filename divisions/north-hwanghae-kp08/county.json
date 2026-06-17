@@ -1,0 +1,947 @@
+[
+  {
+    "id": "KP0805",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Hwangju",
+      "en": "Hwangju",
+      "slug": "hwangju-kp0805"
+    },
+    "code": {
+      "id": "KP0805",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.726",
+      "lon": "125.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0804",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jangphung",
+      "en": "Jangphung",
+      "slug": "jangphung-kp0804"
+    },
+    "code": {
+      "id": "KP0804",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.095",
+      "lon": "126.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0821",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Junghwa",
+      "en": "Junghwa",
+      "slug": "junghwa-kp0821"
+    },
+    "code": {
+      "id": "KP0821",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.873",
+      "lon": "125.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0803",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kaesong City",
+      "en": "Kaesong City",
+      "slug": "kaesong-city-kp0803"
+    },
+    "code": {
+      "id": "KP0803",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.948",
+      "lon": "126.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0820",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kangnam",
+      "en": "Kangnam",
+      "slug": "kangnam-kp0820"
+    },
+    "code": {
+      "id": "KP0820",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.865",
+      "lon": "125.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0814",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Koksan",
+      "en": "Koksan",
+      "slug": "koksan-kp0814"
+    },
+    "code": {
+      "id": "KP0814",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.724",
+      "lon": "126.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0817",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kumchon",
+      "en": "Kumchon",
+      "slug": "kumchon-kp0817"
+    },
+    "code": {
+      "id": "KP0817",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.204",
+      "lon": "126.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0816",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Phyongsan",
+      "en": "Phyongsan",
+      "slug": "phyongsan-kp0816"
+    },
+    "code": {
+      "id": "KP0816",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.334",
+      "lon": "126.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0807",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pongsan",
+      "en": "Pongsan",
+      "slug": "pongsan-kp0807"
+    },
+    "code": {
+      "id": "KP0807",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.518",
+      "lon": "125.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0809",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Rinsan",
+      "en": "Rinsan",
+      "slug": "rinsan-kp0809"
+    },
+    "code": {
+      "id": "KP0809",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.314",
+      "lon": "126.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0822",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sangwon",
+      "en": "Sangwon",
+      "slug": "sangwon-kp0822"
+    },
+    "code": {
+      "id": "KP0822",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.861",
+      "lon": "126.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0801",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sariwon City",
+      "en": "Sariwon City",
+      "slug": "sariwon-city-kp0801"
+    },
+    "code": {
+      "id": "KP0801",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.566",
+      "lon": "125.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0815",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sinkye",
+      "en": "Sinkye",
+      "slug": "sinkye-kp0815"
+    },
+    "code": {
+      "id": "KP0815",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.508",
+      "lon": "126.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0813",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sinphyong",
+      "en": "Sinphyong",
+      "slug": "sinphyong-kp0813"
+    },
+    "code": {
+      "id": "KP0813",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.983",
+      "lon": "126.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0810",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sohung",
+      "en": "Sohung",
+      "slug": "sohung-kp0810"
+    },
+    "code": {
+      "id": "KP0810",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.535",
+      "lon": "126.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0802",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Songrim City",
+      "en": "Songrim City",
+      "slug": "songrim-city-kp0802"
+    },
+    "code": {
+      "id": "KP0802",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.77",
+      "lon": "125.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0811",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Suan",
+      "en": "Suan",
+      "slug": "suan-kp0811"
+    },
+    "code": {
+      "id": "KP0811",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.672",
+      "lon": "126.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0818",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Thosan",
+      "en": "Thosan",
+      "slug": "thosan-kp0818"
+    },
+    "code": {
+      "id": "KP0818",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.336",
+      "lon": "126.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0808",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Unpha",
+      "en": "Unpha",
+      "slug": "unpha-kp0808"
+    },
+    "code": {
+      "id": "KP0808",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.375",
+      "lon": "125.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0812",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Yonsan",
+      "en": "Yonsan",
+      "slug": "yonsan-kp0812"
+    },
+    "code": {
+      "id": "KP0812",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.861",
+      "lon": "126.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0806",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Yonthan",
+      "en": "Yonthan",
+      "slug": "yonthan-kp0806"
+    },
+    "code": {
+      "id": "KP0806",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.696",
+      "lon": "126.01"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

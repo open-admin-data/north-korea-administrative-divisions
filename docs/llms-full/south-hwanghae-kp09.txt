@@ -1,0 +1,109 @@
+# South Hwanghae — North Korea Administrative Divisions
+
+> 20 countys
+> Code: KP09
+> Coordinates: 38.191, 125.419
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Countys
+
+### Anak
+
+Code: KP0910, Coordinates: 38.465, 125.417
+
+
+### Chongdan
+
+Code: KP0917, Coordinates: 38.007, 125.909
+
+
+### Haeju City
+
+Code: KP0901, Coordinates: 38.063, 125.687
+
+
+### Jaerong
+
+Code: KP0912, Coordinates: 38.44, 125.634
+
+
+### Jangyon
+
+Code: KP0905, Coordinates: 38.252, 125.024
+
+
+### Kangryong
+
+Code: KP0902, Coordinates: 37.845, 125.575
+
+
+### Kwail
+
+Code: KP0919, Coordinates: 38.426, 124.991
+
+
+### Ongjin
+
+Code: KP0903, Coordinates: 37.926, 125.125
+
+
+### Paechon
+
+Code: KP0915, Coordinates: 37.964, 126.288
+
+
+### Pongchon
+
+Code: KP0914, Coordinates: 38.149, 126.201
+
+
+### Pyoksong
+
+Code: KP0920, Coordinates: 38.099, 125.452
+
+
+### Ryongyon
+
+Code: KP0918, Coordinates: 38.146, 124.954
+
+
+### Samchon
+
+Code: KP0906, Coordinates: 38.339, 125.276
+
+
+### Sinchon
+
+Code: KP0911, Coordinates: 38.303, 125.453
+
+
+### Sinwon
+
+Code: KP0913, Coordinates: 38.212, 125.711
+
+
+### Songhwa
+
+Code: KP0907, Coordinates: 38.356, 125.11
+
+
+### Thaethan
+
+Code: KP0904, Coordinates: 38.144, 125.241
+
+
+### Unchon
+
+Code: KP0909, Coordinates: 38.594, 125.498
+
+
+### Unryul
+
+Code: KP0908, Coordinates: 38.513, 125.175
+
+
+### Yonan
+
+Code: KP0916, Coordinates: 37.91, 126.08
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "KP0106",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Pochon",
+    "en": "Pochon",
+    "slug": "pochon-kp0106"
+  },
+  "code": {
+    "id": "KP0106",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP01",
+    "level": 1,
+    "name": {
+      "local": "Ryanggang",
+      "en": "Ryanggang",
+      "slug": "ryanggang-kp01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.646",
+    "lon": "128.571"
+  },
+  "metadata": {},
+  "source": {}
+}

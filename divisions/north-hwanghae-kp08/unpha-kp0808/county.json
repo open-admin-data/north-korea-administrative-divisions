@@ -1,0 +1,45 @@
+{
+  "id": "KP0808",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Unpha",
+    "en": "Unpha",
+    "slug": "unpha-kp0808"
+  },
+  "code": {
+    "id": "KP0808",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP08",
+    "level": 1,
+    "name": {
+      "local": "North Hwanghae",
+      "en": "North Hwanghae",
+      "slug": "north-hwanghae-kp08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.375",
+    "lon": "125.826"
+  },
+  "metadata": {},
+  "source": {}
+}

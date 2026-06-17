@@ -1,0 +1,45 @@
+{
+  "id": "KP0101",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Hyesan City",
+    "en": "Hyesan City",
+    "slug": "hyesan-city-kp0101"
+  },
+  "code": {
+    "id": "KP0101",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP01",
+    "level": 1,
+    "name": {
+      "local": "Ryanggang",
+      "en": "Ryanggang",
+      "slug": "ryanggang-kp01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.366",
+    "lon": "128.271"
+  },
+  "metadata": {},
+  "source": {}
+}

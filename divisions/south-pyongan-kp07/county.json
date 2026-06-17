@@ -1,0 +1,947 @@
+[
+  {
+    "id": "KP0703",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Anju City",
+      "en": "Anju City",
+      "slug": "anju-city-kp0703"
+    },
+    "code": {
+      "id": "KP0703",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.589",
+      "lon": "125.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0726",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Chongnam",
+      "en": "Chongnam",
+      "slug": "chongnam-kp0726"
+    },
+    "code": {
+      "id": "KP0726",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.477",
+      "lon": "125.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0723",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Hoechang",
+      "en": "Hoechang",
+      "slug": "hoechang-kp0723"
+    },
+    "code": {
+      "id": "KP0723",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.077",
+      "lon": "126.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0708",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jungsan",
+      "en": "Jungsan",
+      "slug": "jungsan-kp0708"
+    },
+    "code": {
+      "id": "KP0708",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.098",
+      "lon": "125.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0704",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kaechon City",
+      "en": "Kaechon City",
+      "slug": "kaechon-city-kp0704"
+    },
+    "code": {
+      "id": "KP0704",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.699",
+      "lon": "125.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0722",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Maengsan",
+      "en": "Maengsan",
+      "slug": "maengsan-kp0722"
+    },
+    "code": {
+      "id": "KP0722",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.68",
+      "lon": "126.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0716",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Mundok",
+      "en": "Mundok",
+      "slug": "mundok-kp0716"
+    },
+    "code": {
+      "id": "KP0716",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.512",
+      "lon": "125.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0724",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Nyongwon",
+      "en": "Nyongwon",
+      "slug": "nyongwon-kp0724"
+    },
+    "code": {
+      "id": "KP0724",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.974",
+      "lon": "126.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0721",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pukchang",
+      "en": "Pukchang",
+      "slug": "pukchang-kp0721"
+    },
+    "code": {
+      "id": "KP0721",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.559",
+      "lon": "126.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0701",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pyongsong City",
+      "en": "Pyongsong City",
+      "slug": "pyongsong-city-kp0701"
+    },
+    "code": {
+      "id": "KP0701",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.321",
+      "lon": "125.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0714",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pyongwon",
+      "en": "Pyongwon",
+      "slug": "pyongwon-kp0714"
+    },
+    "code": {
+      "id": "KP0714",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.283",
+      "lon": "125.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0718",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sinyang",
+      "en": "Sinyang",
+      "slug": "sinyang-kp0718"
+    },
+    "code": {
+      "id": "KP0718",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.353",
+      "lon": "126.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0717",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Songchon",
+      "en": "Songchon",
+      "slug": "songchon-kp0717"
+    },
+    "code": {
+      "id": "KP0717",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.298",
+      "lon": "126.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0715",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sukchon",
+      "en": "Sukchon",
+      "slug": "sukchon-kp0715"
+    },
+    "code": {
+      "id": "KP0715",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.388",
+      "lon": "125.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0705",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sunchon City",
+      "en": "Sunchon City",
+      "slug": "sunchon-city-kp0705"
+    },
+    "code": {
+      "id": "KP0705",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.49",
+      "lon": "125.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0707",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Taedong",
+      "en": "Taedong",
+      "slug": "taedong-kp0707"
+    },
+    "code": {
+      "id": "KP0707",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.104",
+      "lon": "125.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0725",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Taehung",
+      "en": "Taehung",
+      "slug": "taehung-kp0725"
+    },
+    "code": {
+      "id": "KP0725",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.079",
+      "lon": "126.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0706",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tokchon City",
+      "en": "Tokchon City",
+      "slug": "tokchon-city-kp0706"
+    },
+    "code": {
+      "id": "KP0706",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.773",
+      "lon": "126.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0727",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tukjang",
+      "en": "Tukjang",
+      "slug": "tukjang-kp0727"
+    },
+    "code": {
+      "id": "KP0727",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.613",
+      "lon": "126.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0720",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Unsan",
+      "en": "Unsan",
+      "slug": "unsan-kp0720"
+    },
+    "code": {
+      "id": "KP0720",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.429",
+      "lon": "126.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0719",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Yangdok",
+      "en": "Yangdok",
+      "slug": "yangdok-kp0719"
+    },
+    "code": {
+      "id": "KP0719",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.184",
+      "lon": "126.816"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "KP0414",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Ichon",
+    "en": "Ichon",
+    "slug": "ichon-kp0414"
+  },
+  "code": {
+    "id": "KP0414",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP04",
+    "level": 1,
+    "name": {
+      "local": "Kangwon",
+      "en": "Kangwon",
+      "slug": "kangwon-kp04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.507",
+    "lon": "126.866"
+  },
+  "metadata": {},
+  "source": {}
+}

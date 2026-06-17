@@ -1,0 +1,109 @@
+# South Hamgyong — North Korea Administrative Divisions
+
+> 20 countys
+> Code: KP03
+> Coordinates: 40.191, 127.876
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Countys
+
+### Hamhung City
+
+Code: KP0307, Coordinates: 39.916, 127.616
+
+
+### Hamju
+
+Code: KP0310, Coordinates: 39.899, 127.287
+
+
+### Hochon
+
+Code: KP0324, Coordinates: 40.871, 128.599
+
+
+### Hongwon
+
+Code: KP0320, Coordinates: 40.149, 127.966
+
+
+### Jangjin
+
+Code: KP0314, Coordinates: 40.497, 127.244
+
+
+### Jongphyong
+
+Code: KP0315, Coordinates: 39.696, 127.341
+
+
+### Kowon
+
+Code: KP0318, Coordinates: 39.408, 127.079
+
+
+### Kumho
+
+Code: KP0326, Coordinates: 40.115, 128.379
+
+
+### Kumya
+
+Code: KP0316, Coordinates: 39.448, 127.381
+
+
+### Pujon
+
+Code: KP0313, Coordinates: 40.762, 127.544
+
+
+### Pukchong
+
+Code: KP0321, Coordinates: 40.23, 128.347
+
+
+### Rakwon
+
+Code: KP0319, Coordinates: 39.908, 127.81
+
+
+### Riwon
+
+Code: KP0323, Coordinates: 40.323, 128.595
+
+
+### Sinhung
+
+Code: KP0312, Coordinates: 40.26, 127.63
+
+
+### Sinpho City
+
+Code: KP0301, Coordinates: 40.066, 128.215
+
+
+### Sudong
+
+Code: KP0325, Coordinates: 39.365, 126.863
+
+
+### Tanchon City
+
+Code: KP0302, Coordinates: 40.784, 128.881
+
+
+### Toksong
+
+Code: KP0322, Coordinates: 40.466, 128.194
+
+
+### Yodok
+
+Code: KP0317, Coordinates: 39.614, 126.941
+
+
+### Yonggwang
+
+Code: KP0311, Coordinates: 40.077, 127.318
+
+

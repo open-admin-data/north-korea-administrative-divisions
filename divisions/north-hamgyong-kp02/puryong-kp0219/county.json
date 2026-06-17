@@ -1,0 +1,45 @@
+{
+  "id": "KP0219",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Puryong",
+    "en": "Puryong",
+    "slug": "puryong-kp0219"
+  },
+  "code": {
+    "id": "KP0219",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP02",
+    "level": 1,
+    "name": {
+      "local": "North Hamgyong",
+      "en": "North Hamgyong",
+      "slug": "north-hamgyong-kp02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP02",
+      "level": 1,
+      "name": {
+        "local": "North Hamgyong",
+        "en": "North Hamgyong",
+        "slug": "north-hamgyong-kp02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.118",
+    "lon": "129.703"
+  },
+  "metadata": {},
+  "source": {}
+}

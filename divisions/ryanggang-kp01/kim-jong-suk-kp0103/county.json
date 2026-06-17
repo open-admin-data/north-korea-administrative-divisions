@@ -1,0 +1,45 @@
+{
+  "id": "KP0103",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kim Jong Suk",
+    "en": "Kim Jong Suk",
+    "slug": "kim-jong-suk-kp0103"
+  },
+  "code": {
+    "id": "KP0103",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP01",
+    "level": 1,
+    "name": {
+      "local": "Ryanggang",
+      "en": "Ryanggang",
+      "slug": "ryanggang-kp01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.264",
+    "lon": "127.562"
+  },
+  "metadata": {},
+  "source": {}
+}

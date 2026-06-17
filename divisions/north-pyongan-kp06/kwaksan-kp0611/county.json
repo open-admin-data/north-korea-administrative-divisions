@@ -1,0 +1,45 @@
+{
+  "id": "KP0611",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kwaksan",
+    "en": "Kwaksan",
+    "slug": "kwaksan-kp0611"
+  },
+  "code": {
+    "id": "KP0611",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP06",
+    "level": 1,
+    "name": {
+      "local": "North Pyongan",
+      "en": "North Pyongan",
+      "slug": "north-pyongan-kp06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.701",
+    "lon": "125.032"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "KP0413",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Cholwon",
+    "en": "Cholwon",
+    "slug": "cholwon-kp0413"
+  },
+  "code": {
+    "id": "KP0413",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP04",
+    "level": 1,
+    "name": {
+      "local": "Kangwon",
+      "en": "Kangwon",
+      "slug": "kangwon-kp04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.32",
+    "lon": "127.058"
+  },
+  "metadata": {},
+  "source": {}
+}

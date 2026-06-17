@@ -1,0 +1,33 @@
+{
+  "id": "KP06",
+  "level": 1,
+  "level_name": {
+    "local": "도",
+    "en": "Province"
+  },
+  "name": {
+    "local": "North Pyongan",
+    "en": "North Pyongan",
+    "slug": "north-pyongan-kp06"
+  },
+  "code": {
+    "id": "KP06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.088",
+    "lon": "125.243"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kp/provinces/north-pyongan-kp06/",
+    "api": "https://openadmindata.org/api/kp/"
+  }
+}

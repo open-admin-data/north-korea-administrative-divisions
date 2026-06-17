@@ -1,0 +1,134 @@
+# North Pyongan — North Korea Administrative Divisions
+
+> 25 countys
+> Code: KP06
+> Coordinates: 40.088, 125.243
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Countys
+
+### Changsong
+
+Code: KP0623, Coordinates: 40.389, 125.248
+
+
+### Cholsan
+
+Code: KP0608, Coordinates: 39.73, 124.664
+
+
+### Chonma
+
+Code: KP0619, Coordinates: 40.078, 124.87
+
+
+### Hyangsan
+
+Code: KP0616, Coordinates: 40.032, 126.204
+
+
+### Jongju City
+
+Code: KP0602, Coordinates: 39.699, 125.232
+
+
+### Kujang
+
+Code: KP0615, Coordinates: 39.932, 126.112
+
+
+### Kusong City
+
+Code: KP0603, Coordinates: 39.95, 125.206
+
+
+### Kwaksan
+
+Code: KP0611, Coordinates: 39.701, 125.032
+
+
+### Nyongbyon
+
+Code: KP0614, Coordinates: 39.824, 125.772
+
+
+### Pakchon
+
+Code: KP0613, Coordinates: 39.691, 125.648
+
+
+### Phihyon
+
+Code: KP0605, Coordinates: 40.048, 124.587
+
+
+### Pyokdong
+
+Code: KP0604, Coordinates: 40.503, 125.421
+
+
+### Ryongchon
+
+Code: KP0606, Coordinates: 39.948, 124.426
+
+
+### Sakju
+
+Code: KP0621, Coordinates: 40.331, 124.94
+
+
+### Sindo
+
+Code: KP0625, Coordinates: 39.852, 124.255
+
+
+### Sinuiju City
+
+Code: KP0601, Coordinates: 40.084, 124.397
+
+
+### Sonchon
+
+Code: KP0610, Coordinates: 39.801, 124.89
+
+
+### Taegwan
+
+Code: KP0622, Coordinates: 39.933, 125.516
+
+
+### Thaechon
+
+Code: KP0618, Coordinates: 40.187, 125.142
+
+
+### Tongchang
+
+Code: KP0624, Coordinates: 40.225, 125.515
+
+
+### Tongrim
+
+Code: KP0609, Coordinates: 39.9, 124.812
+
+
+### Uiju
+
+Code: KP0620, Coordinates: 40.203, 124.634
+
+
+### Unjon
+
+Code: KP0612, Coordinates: 39.665, 125.438
+
+
+### Unsan
+
+Code: KP0617, Coordinates: 40.086, 125.829
+
+
+### Yomju
+
+Code: KP0607, Coordinates: 39.896, 124.505
+
+

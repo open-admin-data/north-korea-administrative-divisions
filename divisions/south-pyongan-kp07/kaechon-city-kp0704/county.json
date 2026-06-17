@@ -1,0 +1,45 @@
+{
+  "id": "KP0704",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kaechon City",
+    "en": "Kaechon City",
+    "slug": "kaechon-city-kp0704"
+  },
+  "code": {
+    "id": "KP0704",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP07",
+    "level": 1,
+    "name": {
+      "local": "South Pyongan",
+      "en": "South Pyongan",
+      "slug": "south-pyongan-kp07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.699",
+    "lon": "125.979"
+  },
+  "metadata": {},
+  "source": {}
+}

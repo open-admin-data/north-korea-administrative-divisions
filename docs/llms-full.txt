@@ -1,0 +1,33 @@
+# North Korea Administrative Divisions — Full Reference
+
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Per-Province Data Files
+
+- [Jagang](https://github.com/open-admin-data/north-korea-administrative-divisions/blob/main/docs/llms-full/jagang-kp05.txt) — 18 countys
+- [Kangwon](https://github.com/open-admin-data/north-korea-administrative-divisions/blob/main/docs/llms-full/kangwon-kp04.txt) — 17 countys
+- [Nampo](https://github.com/open-admin-data/north-korea-administrative-divisions/blob/main/docs/llms-full/nampo-kp11.txt) — 6 countys
+- [North Hamgyong](https://github.com/open-admin-data/north-korea-administrative-divisions/blob/main/docs/llms-full/north-hamgyong-kp02.txt) — 16 countys
+- [North Hwanghae](https://github.com/open-admin-data/north-korea-administrative-divisions/blob/main/docs/llms-full/north-hwanghae-kp08.txt) — 21 countys
+- [North Pyongan](https://github.com/open-admin-data/north-korea-administrative-divisions/blob/main/docs/llms-full/north-pyongan-kp06.txt) — 25 countys
+- [Pyongyang](https://github.com/open-admin-data/north-korea-administrative-divisions/blob/main/docs/llms-full/pyongyang-kp10.txt) — 3 countys
+- [Ryanggang](https://github.com/open-admin-data/north-korea-administrative-divisions/blob/main/docs/llms-full/ryanggang-kp01.txt) — 12 countys
+- [South Hamgyong](https://github.com/open-admin-data/north-korea-administrative-divisions/blob/main/docs/llms-full/south-hamgyong-kp03.txt) — 20 countys
+- [South Hwanghae](https://github.com/open-admin-data/north-korea-administrative-divisions/blob/main/docs/llms-full/south-hwanghae-kp09.txt) — 20 countys
+- [South Pyongan](https://github.com/open-admin-data/north-korea-administrative-divisions/blob/main/docs/llms-full/south-pyongan-kp07.txt) — 21 countys
+
+## Summary
+
+| Province | Countys | 
+|---|---|
+| Jagang | 18 | 
+| Kangwon | 17 | 
+| Nampo | 6 | 
+| North Hamgyong | 16 | 
+| North Hwanghae | 21 | 
+| North Pyongan | 25 | 
+| Pyongyang | 3 | 
+| Ryanggang | 12 | 
+| South Hamgyong | 20 | 
+| South Hwanghae | 20 | 
+| South Pyongan | 21 | 

@@ -1,0 +1,8057 @@
+[
+  {
+    "id": "KP0910",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Anak",
+      "en": "Anak",
+      "slug": "anak-kp0910"
+    },
+    "code": {
+      "id": "KP0910",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.465",
+      "lon": "125.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0403",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Anbyon",
+      "en": "Anbyon",
+      "slug": "anbyon-kp0403"
+    },
+    "code": {
+      "id": "KP0403",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.017",
+      "lon": "127.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0703",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Anju City",
+      "en": "Anju City",
+      "slug": "anju-city-kp0703"
+    },
+    "code": {
+      "id": "KP0703",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.589",
+      "lon": "125.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0408",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Changdo",
+      "en": "Changdo",
+      "slug": "changdo-kp0408"
+    },
+    "code": {
+      "id": "KP0408",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.574",
+      "lon": "127.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0623",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Changsong",
+      "en": "Changsong",
+      "slug": "changsong-kp0623"
+    },
+    "code": {
+      "id": "KP0623",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.389",
+      "lon": "125.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP1107",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Chollima",
+      "en": "Chollima",
+      "slug": "chollima-kp1107"
+    },
+    "code": {
+      "id": "KP1107",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP11",
+      "level": 1,
+      "name": {
+        "local": "Nampo",
+        "en": "Nampo",
+        "slug": "nampo-kp11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP11",
+        "level": 1,
+        "name": {
+          "local": "Nampo",
+          "en": "Nampo",
+          "slug": "nampo-kp11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.952",
+      "lon": "125.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0608",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Cholsan",
+      "en": "Cholsan",
+      "slug": "cholsan-kp0608"
+    },
+    "code": {
+      "id": "KP0608",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.73",
+      "lon": "124.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0413",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Cholwon",
+      "en": "Cholwon",
+      "slug": "cholwon-kp0413"
+    },
+    "code": {
+      "id": "KP0413",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.32",
+      "lon": "127.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0917",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Chongdan",
+      "en": "Chongdan",
+      "slug": "chongdan-kp0917"
+    },
+    "code": {
+      "id": "KP0917",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.007",
+      "lon": "125.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0205",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Chongjin City",
+      "en": "Chongjin City",
+      "slug": "chongjin-city-kp0205"
+    },
+    "code": {
+      "id": "KP0205",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP02",
+      "level": 1,
+      "name": {
+        "local": "North Hamgyong",
+        "en": "North Hamgyong",
+        "slug": "north-hamgyong-kp02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP02",
+        "level": 1,
+        "name": {
+          "local": "North Hamgyong",
+          "en": "North Hamgyong",
+          "slug": "north-hamgyong-kp02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.023",
+      "lon": "129.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0726",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Chongnam",
+      "en": "Chongnam",
+      "slug": "chongnam-kp0726"
+    },
+    "code": {
+      "id": "KP0726",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.477",
+      "lon": "125.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0619",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Chonma",
+      "en": "Chonma",
+      "slug": "chonma-kp0619"
+    },
+    "code": {
+      "id": "KP0619",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.078",
+      "lon": "124.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0417",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Chonnae",
+      "en": "Chonnae",
+      "slug": "chonnae-kp0417"
+    },
+    "code": {
+      "id": "KP0417",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.287",
+      "lon": "127.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0513",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Chosan",
+      "en": "Chosan",
+      "slug": "chosan-kp0513"
+    },
+    "code": {
+      "id": "KP0513",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP05",
+        "level": 1,
+        "name": {
+          "local": "Jagang",
+          "en": "Jagang",
+          "slug": "jagang-kp05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.773",
+      "lon": "125.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0901",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Haeju City",
+      "en": "Haeju City",
+      "slug": "haeju-city-kp0901"
+    },
+    "code": {
+      "id": "KP0901",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.063",
+      "lon": "125.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0307",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Hamhung City",
+      "en": "Hamhung City",
+      "slug": "hamhung-city-kp0307"
+    },
+    "code": {
+      "id": "KP0307",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.916",
+      "lon": "127.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0310",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Hamju",
+      "en": "Hamju",
+      "slug": "hamju-kp0310"
+    },
+    "code": {
+      "id": "KP0310",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.899",
+      "lon": "127.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0324",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Hochon",
+      "en": "Hochon",
+      "slug": "hochon-kp0324"
+    },
+    "code": {
+      "id": "KP0324",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.871",
+      "lon": "128.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0723",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Hoechang",
+      "en": "Hoechang",
+      "slug": "hoechang-kp0723"
+    },
+    "code": {
+      "id": "KP0723",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.077",
+      "lon": "126.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0203",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Hoeryong City",
+      "en": "Hoeryong City",
+      "slug": "hoeryong-city-kp0203"
+    },
+    "code": {
+      "id": "KP0203",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP02",
+      "level": 1,
+      "name": {
+        "local": "North Hamgyong",
+        "en": "North Hamgyong",
+        "slug": "north-hamgyong-kp02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP02",
+        "level": 1,
+        "name": {
+          "local": "North Hamgyong",
+          "en": "North Hamgyong",
+          "slug": "north-hamgyong-kp02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.514",
+      "lon": "129.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0410",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Hoeyang",
+      "en": "Hoeyang",
+      "slug": "hoeyang-kp0410"
+    },
+    "code": {
+      "id": "KP0410",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.76",
+      "lon": "127.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0320",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Hongwon",
+      "en": "Hongwon",
+      "slug": "hongwon-kp0320"
+    },
+    "code": {
+      "id": "KP0320",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.149",
+      "lon": "127.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0503",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Huichon City",
+      "en": "Huichon City",
+      "slug": "huichon-city-kp0503"
+    },
+    "code": {
+      "id": "KP0503",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP05",
+        "level": 1,
+        "name": {
+          "local": "Jagang",
+          "en": "Jagang",
+          "slug": "jagang-kp05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.151",
+      "lon": "126.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0212",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Hwadae",
+      "en": "Hwadae",
+      "slug": "hwadae-kp0212"
+    },
+    "code": {
+      "id": "KP0212",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP02",
+      "level": 1,
+      "name": {
+        "local": "North Hamgyong",
+        "en": "North Hamgyong",
+        "slug": "north-hamgyong-kp02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP02",
+        "level": 1,
+        "name": {
+          "local": "North Hamgyong",
+          "en": "North Hamgyong",
+          "slug": "north-hamgyong-kp02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.824",
+      "lon": "129.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0805",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Hwangju",
+      "en": "Hwangju",
+      "slug": "hwangju-kp0805"
+    },
+    "code": {
+      "id": "KP0805",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.726",
+      "lon": "125.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0508",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Hwaphyong",
+      "en": "Hwaphyong",
+      "slug": "hwaphyong-kp0508"
+    },
+    "code": {
+      "id": "KP0508",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP05",
+        "level": 1,
+        "name": {
+          "local": "Jagang",
+          "en": "Jagang",
+          "slug": "jagang-kp05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.221",
+      "lon": "126.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0616",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Hyangsan",
+      "en": "Hyangsan",
+      "slug": "hyangsan-kp0616"
+    },
+    "code": {
+      "id": "KP0616",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.032",
+      "lon": "126.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0101",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Hyesan City",
+      "en": "Hyesan City",
+      "slug": "hyesan-city-kp0101"
+    },
+    "code": {
+      "id": "KP0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP01",
+        "level": 1,
+        "name": {
+          "local": "Ryanggang",
+          "en": "Ryanggang",
+          "slug": "ryanggang-kp01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.366",
+      "lon": "128.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0414",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ichon",
+      "en": "Ichon",
+      "slug": "ichon-kp0414"
+    },
+    "code": {
+      "id": "KP0414",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.507",
+      "lon": "126.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0912",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jaerong",
+      "en": "Jaerong",
+      "slug": "jaerong-kp0912"
+    },
+    "code": {
+      "id": "KP0912",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.44",
+      "lon": "125.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0507",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Janggang",
+      "en": "Janggang",
+      "slug": "janggang-kp0507"
+    },
+    "code": {
+      "id": "KP0507",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP05",
+        "level": 1,
+        "name": {
+          "local": "Jagang",
+          "en": "Jagang",
+          "slug": "jagang-kp05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.064",
+      "lon": "126.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0314",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jangjin",
+      "en": "Jangjin",
+      "slug": "jangjin-kp0314"
+    },
+    "code": {
+      "id": "KP0314",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.497",
+      "lon": "127.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0804",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jangphung",
+      "en": "Jangphung",
+      "slug": "jangphung-kp0804"
+    },
+    "code": {
+      "id": "KP0804",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.095",
+      "lon": "126.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0905",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jangyon",
+      "en": "Jangyon",
+      "slug": "jangyon-kp0905"
+    },
+    "code": {
+      "id": "KP0905",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.252",
+      "lon": "125.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0510",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jasong",
+      "en": "Jasong",
+      "slug": "jasong-kp0510"
+    },
+    "code": {
+      "id": "KP0510",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP05",
+        "level": 1,
+        "name": {
+          "local": "Jagang",
+          "en": "Jagang",
+          "slug": "jagang-kp05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.451",
+      "lon": "126.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0505",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jonchon",
+      "en": "Jonchon",
+      "slug": "jonchon-kp0505"
+    },
+    "code": {
+      "id": "KP0505",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP05",
+        "level": 1,
+        "name": {
+          "local": "Jagang",
+          "en": "Jagang",
+          "slug": "jagang-kp05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.543",
+      "lon": "126.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0602",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jongju City",
+      "en": "Jongju City",
+      "slug": "jongju-city-kp0602"
+    },
+    "code": {
+      "id": "KP0602",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.699",
+      "lon": "125.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0315",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jongphyong",
+      "en": "Jongphyong",
+      "slug": "jongphyong-kp0315"
+    },
+    "code": {
+      "id": "KP0315",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.696",
+      "lon": "127.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0509",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Junggang",
+      "en": "Junggang",
+      "slug": "junggang-kp0509"
+    },
+    "code": {
+      "id": "KP0509",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP05",
+        "level": 1,
+        "name": {
+          "local": "Jagang",
+          "en": "Jagang",
+          "slug": "jagang-kp05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.668",
+      "lon": "126.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0821",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Junghwa",
+      "en": "Junghwa",
+      "slug": "junghwa-kp0821"
+    },
+    "code": {
+      "id": "KP0821",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.873",
+      "lon": "125.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0708",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jungsan",
+      "en": "Jungsan",
+      "slug": "jungsan-kp0708"
+    },
+    "code": {
+      "id": "KP0708",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.098",
+      "lon": "125.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0111",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kabsan",
+      "en": "Kabsan",
+      "slug": "kabsan-kp0111"
+    },
+    "code": {
+      "id": "KP0111",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP01",
+        "level": 1,
+        "name": {
+          "local": "Ryanggang",
+          "en": "Ryanggang",
+          "slug": "ryanggang-kp01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.127",
+      "lon": "128.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0704",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kaechon City",
+      "en": "Kaechon City",
+      "slug": "kaechon-city-kp0704"
+    },
+    "code": {
+      "id": "KP0704",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.699",
+      "lon": "125.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0803",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kaesong City",
+      "en": "Kaesong City",
+      "slug": "kaesong-city-kp0803"
+    },
+    "code": {
+      "id": "KP0803",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.948",
+      "lon": "126.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP1023",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kangdong",
+      "en": "Kangdong",
+      "slug": "kangdong-kp1023"
+    },
+    "code": {
+      "id": "KP1023",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP10",
+      "level": 1,
+      "name": {
+        "local": "Pyongyang",
+        "en": "Pyongyang",
+        "slug": "pyongyang-kp10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP10",
+        "level": 1,
+        "name": {
+          "local": "Pyongyang",
+          "en": "Pyongyang",
+          "slug": "pyongyang-kp10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.079",
+      "lon": "126.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0501",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kanggye City",
+      "en": "Kanggye City",
+      "slug": "kanggye-city-kp0501"
+    },
+    "code": {
+      "id": "KP0501",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP05",
+        "level": 1,
+        "name": {
+          "local": "Jagang",
+          "en": "Jagang",
+          "slug": "jagang-kp05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.948",
+      "lon": "126.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0820",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kangnam",
+      "en": "Kangnam",
+      "slug": "kangnam-kp0820"
+    },
+    "code": {
+      "id": "KP0820",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.865",
+      "lon": "125.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0902",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kangryong",
+      "en": "Kangryong",
+      "slug": "kangryong-kp0902"
+    },
+    "code": {
+      "id": "KP0902",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.845",
+      "lon": "125.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP1106",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kangso",
+      "en": "Kangso",
+      "slug": "kangso-kp1106"
+    },
+    "code": {
+      "id": "KP1106",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP11",
+      "level": 1,
+      "name": {
+        "local": "Nampo",
+        "en": "Nampo",
+        "slug": "nampo-kp11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP11",
+        "level": 1,
+        "name": {
+          "local": "Nampo",
+          "en": "Nampo",
+          "slug": "nampo-kp11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.954",
+      "lon": "125.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0211",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kilju",
+      "en": "Kilju",
+      "slug": "kilju-kp0211"
+    },
+    "code": {
+      "id": "KP0211",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP02",
+      "level": 1,
+      "name": {
+        "local": "North Hamgyong",
+        "en": "North Hamgyong",
+        "slug": "north-hamgyong-kp02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP02",
+        "level": 1,
+        "name": {
+          "local": "North Hamgyong",
+          "en": "North Hamgyong",
+          "slug": "north-hamgyong-kp02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.005",
+      "lon": "129.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0202",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kim Chaek City",
+      "en": "Kim Chaek City",
+      "slug": "kim-chaek-city-kp0202"
+    },
+    "code": {
+      "id": "KP0202",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP02",
+      "level": 1,
+      "name": {
+        "local": "North Hamgyong",
+        "en": "North Hamgyong",
+        "slug": "north-hamgyong-kp02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP02",
+        "level": 1,
+        "name": {
+          "local": "North Hamgyong",
+          "en": "North Hamgyong",
+          "slug": "north-hamgyong-kp02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.769",
+      "lon": "129.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0105",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kim Hyong Gwon",
+      "en": "Kim Hyong Gwon",
+      "slug": "kim-hyong-gwon-kp0105"
+    },
+    "code": {
+      "id": "KP0105",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP01",
+        "level": 1,
+        "name": {
+          "local": "Ryanggang",
+          "en": "Ryanggang",
+          "slug": "ryanggang-kp01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.656",
+      "lon": "128.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0104",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kim Hyong Jik",
+      "en": "Kim Hyong Jik",
+      "slug": "kim-hyong-jik-kp0104"
+    },
+    "code": {
+      "id": "KP0104",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP01",
+        "level": 1,
+        "name": {
+          "local": "Ryanggang",
+          "en": "Ryanggang",
+          "slug": "ryanggang-kp01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.386",
+      "lon": "127.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0103",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kim Jong Suk",
+      "en": "Kim Jong Suk",
+      "slug": "kim-jong-suk-kp0103"
+    },
+    "code": {
+      "id": "KP0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP01",
+        "level": 1,
+        "name": {
+          "local": "Ryanggang",
+          "en": "Ryanggang",
+          "slug": "ryanggang-kp01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.264",
+      "lon": "127.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0409",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kimhwa",
+      "en": "Kimhwa",
+      "slug": "kimhwa-kp0409"
+    },
+    "code": {
+      "id": "KP0409",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.449",
+      "lon": "127.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0814",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Koksan",
+      "en": "Koksan",
+      "slug": "koksan-kp0814"
+    },
+    "code": {
+      "id": "KP0814",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.724",
+      "lon": "126.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0515",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kophung",
+      "en": "Kophung",
+      "slug": "kophung-kp0515"
+    },
+    "code": {
+      "id": "KP0515",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP05",
+        "level": 1,
+        "name": {
+          "local": "Jagang",
+          "en": "Jagang",
+          "slug": "jagang-kp05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.574",
+      "lon": "125.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0404",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kosan",
+      "en": "Kosan",
+      "slug": "kosan-kp0404"
+    },
+    "code": {
+      "id": "KP0404",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.897",
+      "lon": "127.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0406",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kosong",
+      "en": "Kosong",
+      "slug": "kosong-kp0406"
+    },
+    "code": {
+      "id": "KP0406",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.621",
+      "lon": "128.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0318",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kowon",
+      "en": "Kowon",
+      "slug": "kowon-kp0318"
+    },
+    "code": {
+      "id": "KP0318",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.408",
+      "lon": "127.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0615",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kujang",
+      "en": "Kujang",
+      "slug": "kujang-kp0615"
+    },
+    "code": {
+      "id": "KP0615",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.932",
+      "lon": "126.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0817",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kumchon",
+      "en": "Kumchon",
+      "slug": "kumchon-kp0817"
+    },
+    "code": {
+      "id": "KP0817",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.204",
+      "lon": "126.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0407",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kumgang",
+      "en": "Kumgang",
+      "slug": "kumgang-kp0407"
+    },
+    "code": {
+      "id": "KP0407",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.543",
+      "lon": "128.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0326",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kumho",
+      "en": "Kumho",
+      "slug": "kumho-kp0326"
+    },
+    "code": {
+      "id": "KP0326",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.115",
+      "lon": "128.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0316",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kumya",
+      "en": "Kumya",
+      "slug": "kumya-kp0316"
+    },
+    "code": {
+      "id": "KP0316",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.448",
+      "lon": "127.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0603",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kusong City",
+      "en": "Kusong City",
+      "slug": "kusong-city-kp0603"
+    },
+    "code": {
+      "id": "KP0603",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.95",
+      "lon": "125.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0919",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kwail",
+      "en": "Kwail",
+      "slug": "kwail-kp0919"
+    },
+    "code": {
+      "id": "KP0919",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.426",
+      "lon": "124.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0611",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kwaksan",
+      "en": "Kwaksan",
+      "slug": "kwaksan-kp0611"
+    },
+    "code": {
+      "id": "KP0611",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.701",
+      "lon": "125.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0222",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kyonghung",
+      "en": "Kyonghung",
+      "slug": "kyonghung-kp0222"
+    },
+    "code": {
+      "id": "KP0222",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP02",
+      "level": 1,
+      "name": {
+        "local": "North Hamgyong",
+        "en": "North Hamgyong",
+        "slug": "north-hamgyong-kp02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP02",
+        "level": 1,
+        "name": {
+          "local": "North Hamgyong",
+          "en": "North Hamgyong",
+          "slug": "north-hamgyong-kp02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.506",
+      "lon": "130.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0216",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kyongsong",
+      "en": "Kyongsong",
+      "slug": "kyongsong-kp0216"
+    },
+    "code": {
+      "id": "KP0216",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP02",
+      "level": 1,
+      "name": {
+        "local": "North Hamgyong",
+        "en": "North Hamgyong",
+        "slug": "north-hamgyong-kp02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP02",
+        "level": 1,
+        "name": {
+          "local": "North Hamgyong",
+          "en": "North Hamgyong",
+          "slug": "north-hamgyong-kp02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.68",
+      "lon": "129.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0221",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kyongwon",
+      "en": "Kyongwon",
+      "slug": "kyongwon-kp0221"
+    },
+    "code": {
+      "id": "KP0221",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP02",
+      "level": 1,
+      "name": {
+        "local": "North Hamgyong",
+        "en": "North Hamgyong",
+        "slug": "north-hamgyong-kp02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP02",
+        "level": 1,
+        "name": {
+          "local": "North Hamgyong",
+          "en": "North Hamgyong",
+          "slug": "north-hamgyong-kp02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.718",
+      "lon": "130.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0722",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Maengsan",
+      "en": "Maengsan",
+      "slug": "maengsan-kp0722"
+    },
+    "code": {
+      "id": "KP0722",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.68",
+      "lon": "126.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0502",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Manpho City",
+      "en": "Manpho City",
+      "slug": "manpho-city-kp0502"
+    },
+    "code": {
+      "id": "KP0502",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP05",
+        "level": 1,
+        "name": {
+          "local": "Jagang",
+          "en": "Jagang",
+          "slug": "jagang-kp05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.163",
+      "lon": "126.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0402",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Munchon City",
+      "en": "Munchon City",
+      "slug": "munchon-city-kp0402"
+    },
+    "code": {
+      "id": "KP0402",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.265",
+      "lon": "127.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0716",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Mundok",
+      "en": "Mundok",
+      "slug": "mundok-kp0716"
+    },
+    "code": {
+      "id": "KP0716",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.512",
+      "lon": "125.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0218",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Musan",
+      "en": "Musan",
+      "slug": "musan-kp0218"
+    },
+    "code": {
+      "id": "KP0218",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP02",
+      "level": 1,
+      "name": {
+        "local": "North Hamgyong",
+        "en": "North Hamgyong",
+        "slug": "north-hamgyong-kp02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP02",
+        "level": 1,
+        "name": {
+          "local": "North Hamgyong",
+          "en": "North Hamgyong",
+          "slug": "north-hamgyong-kp02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.155",
+      "lon": "129.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0213",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Myongchon",
+      "en": "Myongchon",
+      "slug": "myongchon-kp0213"
+    },
+    "code": {
+      "id": "KP0213",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP02",
+      "level": 1,
+      "name": {
+        "local": "North Hamgyong",
+        "en": "North Hamgyong",
+        "slug": "north-hamgyong-kp02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP02",
+        "level": 1,
+        "name": {
+          "local": "North Hamgyong",
+          "en": "North Hamgyong",
+          "slug": "north-hamgyong-kp02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.978",
+      "lon": "129.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0214",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Myonggan",
+      "en": "Myonggan",
+      "slug": "myonggan-kp0214"
+    },
+    "code": {
+      "id": "KP0214",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP02",
+      "level": 1,
+      "name": {
+        "local": "North Hamgyong",
+        "en": "North Hamgyong",
+        "slug": "north-hamgyong-kp02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP02",
+        "level": 1,
+        "name": {
+          "local": "North Hamgyong",
+          "en": "North Hamgyong",
+          "slug": "north-hamgyong-kp02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.157",
+      "lon": "129.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP1102",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Nampo City",
+      "en": "Nampo City",
+      "slug": "nampo-city-kp1102"
+    },
+    "code": {
+      "id": "KP1102",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP11",
+      "level": 1,
+      "name": {
+        "local": "Nampo",
+        "en": "Nampo",
+        "slug": "nampo-kp11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP11",
+        "level": 1,
+        "name": {
+          "local": "Nampo",
+          "en": "Nampo",
+          "slug": "nampo-kp11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.733",
+      "lon": "125.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0614",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Nyongbyon",
+      "en": "Nyongbyon",
+      "slug": "nyongbyon-kp0614"
+    },
+    "code": {
+      "id": "KP0614",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.824",
+      "lon": "125.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0724",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Nyongwon",
+      "en": "Nyongwon",
+      "slug": "nyongwon-kp0724"
+    },
+    "code": {
+      "id": "KP0724",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.974",
+      "lon": "126.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP1103",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Onchon",
+      "en": "Onchon",
+      "slug": "onchon-kp1103"
+    },
+    "code": {
+      "id": "KP1103",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP11",
+      "level": 1,
+      "name": {
+        "local": "Nampo",
+        "en": "Nampo",
+        "slug": "nampo-kp11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP11",
+        "level": 1,
+        "name": {
+          "local": "Nampo",
+          "en": "Nampo",
+          "slug": "nampo-kp11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.867",
+      "lon": "125.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0903",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ongjin",
+      "en": "Ongjin",
+      "slug": "ongjin-kp0903"
+    },
+    "code": {
+      "id": "KP0903",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.926",
+      "lon": "125.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0220",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Onsong",
+      "en": "Onsong",
+      "slug": "onsong-kp0220"
+    },
+    "code": {
+      "id": "KP0220",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP02",
+      "level": 1,
+      "name": {
+        "local": "North Hamgyong",
+        "en": "North Hamgyong",
+        "slug": "north-hamgyong-kp02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP02",
+        "level": 1,
+        "name": {
+          "local": "North Hamgyong",
+          "en": "North Hamgyong",
+          "slug": "north-hamgyong-kp02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.886",
+      "lon": "129.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0215",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Orang",
+      "en": "Orang",
+      "slug": "orang-kp0215"
+    },
+    "code": {
+      "id": "KP0215",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP02",
+      "level": 1,
+      "name": {
+        "local": "North Hamgyong",
+        "en": "North Hamgyong",
+        "slug": "north-hamgyong-kp02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP02",
+        "level": 1,
+        "name": {
+          "local": "North Hamgyong",
+          "en": "North Hamgyong",
+          "slug": "north-hamgyong-kp02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.425",
+      "lon": "129.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0915",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Paechon",
+      "en": "Paechon",
+      "slug": "paechon-kp0915"
+    },
+    "code": {
+      "id": "KP0915",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.964",
+      "lon": "126.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0110",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Paekam",
+      "en": "Paekam",
+      "slug": "paekam-kp0110"
+    },
+    "code": {
+      "id": "KP0110",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP01",
+        "level": 1,
+        "name": {
+          "local": "Ryanggang",
+          "en": "Ryanggang",
+          "slug": "ryanggang-kp01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.508",
+      "lon": "128.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0613",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pakchon",
+      "en": "Pakchon",
+      "slug": "pakchon-kp0613"
+    },
+    "code": {
+      "id": "KP0613",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.691",
+      "lon": "125.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0415",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Phangyo",
+      "en": "Phangyo",
+      "slug": "phangyo-kp0415"
+    },
+    "code": {
+      "id": "KP0415",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.743",
+      "lon": "126.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0605",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Phihyon",
+      "en": "Phihyon",
+      "slug": "phihyon-kp0605"
+    },
+    "code": {
+      "id": "KP0605",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.048",
+      "lon": "124.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0112",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Phungso",
+      "en": "Phungso",
+      "slug": "phungso-kp0112"
+    },
+    "code": {
+      "id": "KP0112",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP01",
+        "level": 1,
+        "name": {
+          "local": "Ryanggang",
+          "en": "Ryanggang",
+          "slug": "ryanggang-kp01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.859",
+      "lon": "127.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0412",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Phyonggang",
+      "en": "Phyonggang",
+      "slug": "phyonggang-kp0412"
+    },
+    "code": {
+      "id": "KP0412",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.47",
+      "lon": "127.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0816",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Phyongsan",
+      "en": "Phyongsan",
+      "slug": "phyongsan-kp0816"
+    },
+    "code": {
+      "id": "KP0816",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.334",
+      "lon": "126.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0106",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pochon",
+      "en": "Pochon",
+      "slug": "pochon-kp0106"
+    },
+    "code": {
+      "id": "KP0106",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP01",
+        "level": 1,
+        "name": {
+          "local": "Ryanggang",
+          "en": "Ryanggang",
+          "slug": "ryanggang-kp01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.646",
+      "lon": "128.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0914",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pongchon",
+      "en": "Pongchon",
+      "slug": "pongchon-kp0914"
+    },
+    "code": {
+      "id": "KP0914",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.149",
+      "lon": "126.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0807",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pongsan",
+      "en": "Pongsan",
+      "slug": "pongsan-kp0807"
+    },
+    "code": {
+      "id": "KP0807",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.518",
+      "lon": "125.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0416",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Popdong",
+      "en": "Popdong",
+      "slug": "popdong-kp0416"
+    },
+    "code": {
+      "id": "KP0416",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.997",
+      "lon": "127.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0313",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pujon",
+      "en": "Pujon",
+      "slug": "pujon-kp0313"
+    },
+    "code": {
+      "id": "KP0313",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.762",
+      "lon": "127.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0721",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pukchang",
+      "en": "Pukchang",
+      "slug": "pukchang-kp0721"
+    },
+    "code": {
+      "id": "KP0721",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.559",
+      "lon": "126.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0321",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pukchong",
+      "en": "Pukchong",
+      "slug": "pukchong-kp0321"
+    },
+    "code": {
+      "id": "KP0321",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.23",
+      "lon": "128.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0219",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Puryong",
+      "en": "Puryong",
+      "slug": "puryong-kp0219"
+    },
+    "code": {
+      "id": "KP0219",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP02",
+      "level": 1,
+      "name": {
+        "local": "North Hamgyong",
+        "en": "North Hamgyong",
+        "slug": "north-hamgyong-kp02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP02",
+        "level": 1,
+        "name": {
+          "local": "North Hamgyong",
+          "en": "North Hamgyong",
+          "slug": "north-hamgyong-kp02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.118",
+      "lon": "129.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0604",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pyokdong",
+      "en": "Pyokdong",
+      "slug": "pyokdong-kp0604"
+    },
+    "code": {
+      "id": "KP0604",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.503",
+      "lon": "125.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0920",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pyoksong",
+      "en": "Pyoksong",
+      "slug": "pyoksong-kp0920"
+    },
+    "code": {
+      "id": "KP0920",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.099",
+      "lon": "125.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0701",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pyongsong City",
+      "en": "Pyongsong City",
+      "slug": "pyongsong-city-kp0701"
+    },
+    "code": {
+      "id": "KP0701",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.321",
+      "lon": "125.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0714",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pyongwon",
+      "en": "Pyongwon",
+      "slug": "pyongwon-kp0714"
+    },
+    "code": {
+      "id": "KP0714",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.283",
+      "lon": "125.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP1001",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pyongyang",
+      "en": "Pyongyang",
+      "slug": "pyongyang-kp1001"
+    },
+    "code": {
+      "id": "KP1001",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP10",
+      "level": 1,
+      "name": {
+        "local": "Pyongyang",
+        "en": "Pyongyang",
+        "slug": "pyongyang-kp10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP10",
+        "level": 1,
+        "name": {
+          "local": "Pyongyang",
+          "en": "Pyongyang",
+          "slug": "pyongyang-kp10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.092",
+      "lon": "125.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0319",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Rakwon",
+      "en": "Rakwon",
+      "slug": "rakwon-kp0319"
+    },
+    "code": {
+      "id": "KP0319",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.908",
+      "lon": "127.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0504",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Rangrim",
+      "en": "Rangrim",
+      "slug": "rangrim-kp0504"
+    },
+    "code": {
+      "id": "KP0504",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP05",
+        "level": 1,
+        "name": {
+          "local": "Jagang",
+          "en": "Jagang",
+          "slug": "jagang-kp05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.817",
+      "lon": "127.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0201",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Rason City",
+      "en": "Rason City",
+      "slug": "rason-city-kp0201"
+    },
+    "code": {
+      "id": "KP0201",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP02",
+      "level": 1,
+      "name": {
+        "local": "North Hamgyong",
+        "en": "North Hamgyong",
+        "slug": "north-hamgyong-kp02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP02",
+        "level": 1,
+        "name": {
+          "local": "North Hamgyong",
+          "en": "North Hamgyong",
+          "slug": "north-hamgyong-kp02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.392",
+      "lon": "130.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0809",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Rinsan",
+      "en": "Rinsan",
+      "slug": "rinsan-kp0809"
+    },
+    "code": {
+      "id": "KP0809",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.314",
+      "lon": "126.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0323",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Riwon",
+      "en": "Riwon",
+      "slug": "riwon-kp0323"
+    },
+    "code": {
+      "id": "KP0323",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.323",
+      "lon": "128.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0606",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ryongchon",
+      "en": "Ryongchon",
+      "slug": "ryongchon-kp0606"
+    },
+    "code": {
+      "id": "KP0606",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.948",
+      "lon": "124.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP1104",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ryonggang",
+      "en": "Ryonggang",
+      "slug": "ryonggang-kp1104"
+    },
+    "code": {
+      "id": "KP1104",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP11",
+      "level": 1,
+      "name": {
+        "local": "Nampo",
+        "en": "Nampo",
+        "slug": "nampo-kp11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP11",
+        "level": 1,
+        "name": {
+          "local": "Nampo",
+          "en": "Nampo",
+          "slug": "nampo-kp11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.812",
+      "lon": "125.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0518",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ryongrim",
+      "en": "Ryongrim",
+      "slug": "ryongrim-kp0518"
+    },
+    "code": {
+      "id": "KP0518",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP05",
+        "level": 1,
+        "name": {
+          "local": "Jagang",
+          "en": "Jagang",
+          "slug": "jagang-kp05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.477",
+      "lon": "126.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0918",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ryongyon",
+      "en": "Ryongyon",
+      "slug": "ryongyon-kp0918"
+    },
+    "code": {
+      "id": "KP0918",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.146",
+      "lon": "124.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0621",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sakju",
+      "en": "Sakju",
+      "slug": "sakju-kp0621"
+    },
+    "code": {
+      "id": "KP0621",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.331",
+      "lon": "124.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0906",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Samchon",
+      "en": "Samchon",
+      "slug": "samchon-kp0906"
+    },
+    "code": {
+      "id": "KP0906",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.339",
+      "lon": "125.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0107",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Samjiyon",
+      "en": "Samjiyon",
+      "slug": "samjiyon-kp0107"
+    },
+    "code": {
+      "id": "KP0107",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP01",
+        "level": 1,
+        "name": {
+          "local": "Ryanggang",
+          "en": "Ryanggang",
+          "slug": "ryanggang-kp01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.803",
+      "lon": "128.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0102",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Samsu",
+      "en": "Samsu",
+      "slug": "samsu-kp0102"
+    },
+    "code": {
+      "id": "KP0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP01",
+        "level": 1,
+        "name": {
+          "local": "Ryanggang",
+          "en": "Ryanggang",
+          "slug": "ryanggang-kp01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.243",
+      "lon": "127.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0822",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sangwon",
+      "en": "Sangwon",
+      "slug": "sangwon-kp0822"
+    },
+    "code": {
+      "id": "KP0822",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.861",
+      "lon": "126.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0801",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sariwon City",
+      "en": "Sariwon City",
+      "slug": "sariwon-city-kp0801"
+    },
+    "code": {
+      "id": "KP0801",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.566",
+      "lon": "125.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0411",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sepho",
+      "en": "Sepho",
+      "slug": "sepho-kp0411"
+    },
+    "code": {
+      "id": "KP0411",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.695",
+      "lon": "127.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0511",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sijung",
+      "en": "Sijung",
+      "slug": "sijung-kp0511"
+    },
+    "code": {
+      "id": "KP0511",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP05",
+        "level": 1,
+        "name": {
+          "local": "Jagang",
+          "en": "Jagang",
+          "slug": "jagang-kp05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.008",
+      "lon": "126.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0911",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sinchon",
+      "en": "Sinchon",
+      "slug": "sinchon-kp0911"
+    },
+    "code": {
+      "id": "KP0911",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.303",
+      "lon": "125.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0625",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sindo",
+      "en": "Sindo",
+      "slug": "sindo-kp0625"
+    },
+    "code": {
+      "id": "KP0625",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.852",
+      "lon": "124.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0312",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sinhung",
+      "en": "Sinhung",
+      "slug": "sinhung-kp0312"
+    },
+    "code": {
+      "id": "KP0312",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.26",
+      "lon": "127.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0815",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sinkye",
+      "en": "Sinkye",
+      "slug": "sinkye-kp0815"
+    },
+    "code": {
+      "id": "KP0815",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.508",
+      "lon": "126.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0301",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sinpho City",
+      "en": "Sinpho City",
+      "slug": "sinpho-city-kp0301"
+    },
+    "code": {
+      "id": "KP0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.066",
+      "lon": "128.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0813",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sinphyong",
+      "en": "Sinphyong",
+      "slug": "sinphyong-kp0813"
+    },
+    "code": {
+      "id": "KP0813",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.983",
+      "lon": "126.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0601",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sinuiju City",
+      "en": "Sinuiju City",
+      "slug": "sinuiju-city-kp0601"
+    },
+    "code": {
+      "id": "KP0601",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.084",
+      "lon": "124.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0913",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sinwon",
+      "en": "Sinwon",
+      "slug": "sinwon-kp0913"
+    },
+    "code": {
+      "id": "KP0913",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.212",
+      "lon": "125.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0718",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sinyang",
+      "en": "Sinyang",
+      "slug": "sinyang-kp0718"
+    },
+    "code": {
+      "id": "KP0718",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.353",
+      "lon": "126.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0810",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sohung",
+      "en": "Sohung",
+      "slug": "sohung-kp0810"
+    },
+    "code": {
+      "id": "KP0810",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.535",
+      "lon": "126.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0610",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sonchon",
+      "en": "Sonchon",
+      "slug": "sonchon-kp0610"
+    },
+    "code": {
+      "id": "KP0610",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.801",
+      "lon": "124.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0717",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Songchon",
+      "en": "Songchon",
+      "slug": "songchon-kp0717"
+    },
+    "code": {
+      "id": "KP0717",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.298",
+      "lon": "126.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0506",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Songgan",
+      "en": "Songgan",
+      "slug": "songgan-kp0506"
+    },
+    "code": {
+      "id": "KP0506",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP05",
+        "level": 1,
+        "name": {
+          "local": "Jagang",
+          "en": "Jagang",
+          "slug": "jagang-kp05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.756",
+      "lon": "126.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0907",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Songhwa",
+      "en": "Songhwa",
+      "slug": "songhwa-kp0907"
+    },
+    "code": {
+      "id": "KP0907",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.356",
+      "lon": "125.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0802",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Songrim City",
+      "en": "Songrim City",
+      "slug": "songrim-city-kp0802"
+    },
+    "code": {
+      "id": "KP0802",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.77",
+      "lon": "125.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0516",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Songwon",
+      "en": "Songwon",
+      "slug": "songwon-kp0516"
+    },
+    "code": {
+      "id": "KP0516",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP05",
+        "level": 1,
+        "name": {
+          "local": "Jagang",
+          "en": "Jagang",
+          "slug": "jagang-kp05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.373",
+      "lon": "125.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0811",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Suan",
+      "en": "Suan",
+      "slug": "suan-kp0811"
+    },
+    "code": {
+      "id": "KP0811",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.672",
+      "lon": "126.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0325",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sudong",
+      "en": "Sudong",
+      "slug": "sudong-kp0325"
+    },
+    "code": {
+      "id": "KP0325",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.365",
+      "lon": "126.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0715",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sukchon",
+      "en": "Sukchon",
+      "slug": "sukchon-kp0715"
+    },
+    "code": {
+      "id": "KP0715",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.388",
+      "lon": "125.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0705",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sunchon City",
+      "en": "Sunchon City",
+      "slug": "sunchon-city-kp0705"
+    },
+    "code": {
+      "id": "KP0705",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.49",
+      "lon": "125.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP1105",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Taean",
+      "en": "Taean",
+      "slug": "taean-kp1105"
+    },
+    "code": {
+      "id": "KP1105",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP11",
+      "level": 1,
+      "name": {
+        "local": "Nampo",
+        "en": "Nampo",
+        "slug": "nampo-kp11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP11",
+        "level": 1,
+        "name": {
+          "local": "Nampo",
+          "en": "Nampo",
+          "slug": "nampo-kp11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.824",
+      "lon": "125.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0707",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Taedong",
+      "en": "Taedong",
+      "slug": "taedong-kp0707"
+    },
+    "code": {
+      "id": "KP0707",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.104",
+      "lon": "125.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0622",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Taegwan",
+      "en": "Taegwan",
+      "slug": "taegwan-kp0622"
+    },
+    "code": {
+      "id": "KP0622",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.933",
+      "lon": "125.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0108",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Taehongdan",
+      "en": "Taehongdan",
+      "slug": "taehongdan-kp0108"
+    },
+    "code": {
+      "id": "KP0108",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP01",
+        "level": 1,
+        "name": {
+          "local": "Ryanggang",
+          "en": "Ryanggang",
+          "slug": "ryanggang-kp01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.973",
+      "lon": "128.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0725",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Taehung",
+      "en": "Taehung",
+      "slug": "taehung-kp0725"
+    },
+    "code": {
+      "id": "KP0725",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.079",
+      "lon": "126.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0302",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tanchon City",
+      "en": "Tanchon City",
+      "slug": "tanchon-city-kp0302"
+    },
+    "code": {
+      "id": "KP0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.784",
+      "lon": "128.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0618",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Thaechon",
+      "en": "Thaechon",
+      "slug": "thaechon-kp0618"
+    },
+    "code": {
+      "id": "KP0618",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.187",
+      "lon": "125.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0904",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Thaethan",
+      "en": "Thaethan",
+      "slug": "thaethan-kp0904"
+    },
+    "code": {
+      "id": "KP0904",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.144",
+      "lon": "125.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0405",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Thongchon",
+      "en": "Thongchon",
+      "slug": "thongchon-kp0405"
+    },
+    "code": {
+      "id": "KP0405",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.948",
+      "lon": "127.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0818",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Thosan",
+      "en": "Thosan",
+      "slug": "thosan-kp0818"
+    },
+    "code": {
+      "id": "KP0818",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.336",
+      "lon": "126.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0706",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tokchon City",
+      "en": "Tokchon City",
+      "slug": "tokchon-city-kp0706"
+    },
+    "code": {
+      "id": "KP0706",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.773",
+      "lon": "126.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0322",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Toksong",
+      "en": "Toksong",
+      "slug": "toksong-kp0322"
+    },
+    "code": {
+      "id": "KP0322",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.466",
+      "lon": "128.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0624",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tongchang",
+      "en": "Tongchang",
+      "slug": "tongchang-kp0624"
+    },
+    "code": {
+      "id": "KP0624",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.225",
+      "lon": "125.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0609",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tongrim",
+      "en": "Tongrim",
+      "slug": "tongrim-kp0609"
+    },
+    "code": {
+      "id": "KP0609",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.9",
+      "lon": "124.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0517",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tongsin",
+      "en": "Tongsin",
+      "slug": "tongsin-kp0517"
+    },
+    "code": {
+      "id": "KP0517",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP05",
+        "level": 1,
+        "name": {
+          "local": "Jagang",
+          "en": "Jagang",
+          "slug": "jagang-kp05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.217",
+      "lon": "126.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0727",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tukjang",
+      "en": "Tukjang",
+      "slug": "tukjang-kp0727"
+    },
+    "code": {
+      "id": "KP0727",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.613",
+      "lon": "126.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0620",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Uiju",
+      "en": "Uiju",
+      "slug": "uiju-kp0620"
+    },
+    "code": {
+      "id": "KP0620",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.203",
+      "lon": "124.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0909",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Unchon",
+      "en": "Unchon",
+      "slug": "unchon-kp0909"
+    },
+    "code": {
+      "id": "KP0909",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.594",
+      "lon": "125.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0109",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Unhung",
+      "en": "Unhung",
+      "slug": "unhung-kp0109"
+    },
+    "code": {
+      "id": "KP0109",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP01",
+        "level": 1,
+        "name": {
+          "local": "Ryanggang",
+          "en": "Ryanggang",
+          "slug": "ryanggang-kp01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.325",
+      "lon": "128.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0612",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Unjon",
+      "en": "Unjon",
+      "slug": "unjon-kp0612"
+    },
+    "code": {
+      "id": "KP0612",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.665",
+      "lon": "125.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP1007",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Unjong Dist.",
+      "en": "Unjong Dist.",
+      "slug": "unjong-dist-kp1007"
+    },
+    "code": {
+      "id": "KP1007",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP10",
+      "level": 1,
+      "name": {
+        "local": "Pyongyang",
+        "en": "Pyongyang",
+        "slug": "pyongyang-kp10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP10",
+        "level": 1,
+        "name": {
+          "local": "Pyongyang",
+          "en": "Pyongyang",
+          "slug": "pyongyang-kp10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.21",
+      "lon": "125.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0808",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Unpha",
+      "en": "Unpha",
+      "slug": "unpha-kp0808"
+    },
+    "code": {
+      "id": "KP0808",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.375",
+      "lon": "125.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0908",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Unryul",
+      "en": "Unryul",
+      "slug": "unryul-kp0908"
+    },
+    "code": {
+      "id": "KP0908",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.513",
+      "lon": "125.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0617",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Unsan",
+      "en": "Unsan",
+      "slug": "unsan-kp0617"
+    },
+    "code": {
+      "id": "KP0617",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.086",
+      "lon": "125.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0720",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Unsan",
+      "en": "Unsan",
+      "slug": "unsan-kp0720"
+    },
+    "code": {
+      "id": "KP0720",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.429",
+      "lon": "126.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0514",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Usi",
+      "en": "Usi",
+      "slug": "usi-kp0514"
+    },
+    "code": {
+      "id": "KP0514",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP05",
+        "level": 1,
+        "name": {
+          "local": "Jagang",
+          "en": "Jagang",
+          "slug": "jagang-kp05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.579",
+      "lon": "125.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0512",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wiwon",
+      "en": "Wiwon",
+      "slug": "wiwon-kp0512"
+    },
+    "code": {
+      "id": "KP0512",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP05",
+        "level": 1,
+        "name": {
+          "local": "Jagang",
+          "en": "Jagang",
+          "slug": "jagang-kp05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.772",
+      "lon": "126.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0401",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wonsan City",
+      "en": "Wonsan City",
+      "slug": "wonsan-city-kp0401"
+    },
+    "code": {
+      "id": "KP0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP04",
+        "level": 1,
+        "name": {
+          "local": "Kangwon",
+          "en": "Kangwon",
+          "slug": "kangwon-kp04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.107",
+      "lon": "127.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0719",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Yangdok",
+      "en": "Yangdok",
+      "slug": "yangdok-kp0719"
+    },
+    "code": {
+      "id": "KP0719",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP07",
+      "level": 1,
+      "name": {
+        "local": "South Pyongan",
+        "en": "South Pyongan",
+        "slug": "south-pyongan-kp07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP07",
+        "level": 1,
+        "name": {
+          "local": "South Pyongan",
+          "en": "South Pyongan",
+          "slug": "south-pyongan-kp07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.184",
+      "lon": "126.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0317",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Yodok",
+      "en": "Yodok",
+      "slug": "yodok-kp0317"
+    },
+    "code": {
+      "id": "KP0317",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.614",
+      "lon": "126.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0607",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Yomju",
+      "en": "Yomju",
+      "slug": "yomju-kp0607"
+    },
+    "code": {
+      "id": "KP0607",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP06",
+      "level": 1,
+      "name": {
+        "local": "North Pyongan",
+        "en": "North Pyongan",
+        "slug": "north-pyongan-kp06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP06",
+        "level": 1,
+        "name": {
+          "local": "North Pyongan",
+          "en": "North Pyongan",
+          "slug": "north-pyongan-kp06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.896",
+      "lon": "124.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0916",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Yonan",
+      "en": "Yonan",
+      "slug": "yonan-kp0916"
+    },
+    "code": {
+      "id": "KP0916",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP09",
+      "level": 1,
+      "name": {
+        "local": "South Hwanghae",
+        "en": "South Hwanghae",
+        "slug": "south-hwanghae-kp09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP09",
+        "level": 1,
+        "name": {
+          "local": "South Hwanghae",
+          "en": "South Hwanghae",
+          "slug": "south-hwanghae-kp09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.91",
+      "lon": "126.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0311",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Yonggwang",
+      "en": "Yonggwang",
+      "slug": "yonggwang-kp0311"
+    },
+    "code": {
+      "id": "KP0311",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP03",
+      "level": 1,
+      "name": {
+        "local": "South Hamgyong",
+        "en": "South Hamgyong",
+        "slug": "south-hamgyong-kp03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP03",
+        "level": 1,
+        "name": {
+          "local": "South Hamgyong",
+          "en": "South Hamgyong",
+          "slug": "south-hamgyong-kp03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.077",
+      "lon": "127.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0217",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Yonsa",
+      "en": "Yonsa",
+      "slug": "yonsa-kp0217"
+    },
+    "code": {
+      "id": "KP0217",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP02",
+      "level": 1,
+      "name": {
+        "local": "North Hamgyong",
+        "en": "North Hamgyong",
+        "slug": "north-hamgyong-kp02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP02",
+        "level": 1,
+        "name": {
+          "local": "North Hamgyong",
+          "en": "North Hamgyong",
+          "slug": "north-hamgyong-kp02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.829",
+      "lon": "129.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0812",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Yonsan",
+      "en": "Yonsan",
+      "slug": "yonsan-kp0812"
+    },
+    "code": {
+      "id": "KP0812",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.861",
+      "lon": "126.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP0806",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Yonthan",
+      "en": "Yonthan",
+      "slug": "yonthan-kp0806"
+    },
+    "code": {
+      "id": "KP0806",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP08",
+      "level": 1,
+      "name": {
+        "local": "North Hwanghae",
+        "en": "North Hwanghae",
+        "slug": "north-hwanghae-kp08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP08",
+        "level": 1,
+        "name": {
+          "local": "North Hwanghae",
+          "en": "North Hwanghae",
+          "slug": "north-hwanghae-kp08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.696",
+      "lon": "126.01"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "KP1023",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kangdong",
+      "en": "Kangdong",
+      "slug": "kangdong-kp1023"
+    },
+    "code": {
+      "id": "KP1023",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP10",
+      "level": 1,
+      "name": {
+        "local": "Pyongyang",
+        "en": "Pyongyang",
+        "slug": "pyongyang-kp10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP10",
+        "level": 1,
+        "name": {
+          "local": "Pyongyang",
+          "en": "Pyongyang",
+          "slug": "pyongyang-kp10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.079",
+      "lon": "126.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP1001",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pyongyang",
+      "en": "Pyongyang",
+      "slug": "pyongyang-kp1001"
+    },
+    "code": {
+      "id": "KP1001",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP10",
+      "level": 1,
+      "name": {
+        "local": "Pyongyang",
+        "en": "Pyongyang",
+        "slug": "pyongyang-kp10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP10",
+        "level": 1,
+        "name": {
+          "local": "Pyongyang",
+          "en": "Pyongyang",
+          "slug": "pyongyang-kp10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.092",
+      "lon": "125.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KP1007",
+    "level": 2,
+    "level_name": {
+      "local": "군",
+      "en": "County"
+    },
+    "name": {
+      "local": "Unjong Dist.",
+      "en": "Unjong Dist.",
+      "slug": "unjong-dist-kp1007"
+    },
+    "code": {
+      "id": "KP1007",
+      "iso": null
+    },
+    "parent": {
+      "id": "KP10",
+      "level": 1,
+      "name": {
+        "local": "Pyongyang",
+        "en": "Pyongyang",
+        "slug": "pyongyang-kp10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KP10",
+        "level": 1,
+        "name": {
+          "local": "Pyongyang",
+          "en": "Pyongyang",
+          "slug": "pyongyang-kp10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.21",
+      "lon": "125.858"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

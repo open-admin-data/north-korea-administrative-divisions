@@ -1,0 +1,114 @@
+# North Hwanghae — North Korea Administrative Divisions
+
+> 21 countys
+> Code: KP08
+> Coordinates: 38.471, 126.206
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Countys
+
+### Hwangju
+
+Code: KP0805, Coordinates: 38.726, 125.715
+
+
+### Jangphung
+
+Code: KP0804, Coordinates: 38.095, 126.737
+
+
+### Junghwa
+
+Code: KP0821, Coordinates: 38.873, 125.785
+
+
+### Kaesong City
+
+Code: KP0803, Coordinates: 37.948, 126.537
+
+
+### Kangnam
+
+Code: KP0820, Coordinates: 38.865, 125.591
+
+
+### Koksan
+
+Code: KP0814, Coordinates: 38.724, 126.669
+
+
+### Kumchon
+
+Code: KP0817, Coordinates: 38.204, 126.516
+
+
+### Phyongsan
+
+Code: KP0816, Coordinates: 38.334, 126.329
+
+
+### Pongsan
+
+Code: KP0807, Coordinates: 38.518, 125.923
+
+
+### Rinsan
+
+Code: KP0809, Coordinates: 38.314, 126.049
+
+
+### Sangwon
+
+Code: KP0822, Coordinates: 38.861, 126.058
+
+
+### Sariwon City
+
+Code: KP0801, Coordinates: 38.566, 125.721
+
+
+### Sinkye
+
+Code: KP0815, Coordinates: 38.508, 126.508
+
+
+### Sinphyong
+
+Code: KP0813, Coordinates: 38.983, 126.84
+
+
+### Sohung
+
+Code: KP0810, Coordinates: 38.535, 126.199
+
+
+### Songrim City
+
+Code: KP0802, Coordinates: 38.77, 125.614
+
+
+### Suan
+
+Code: KP0811, Coordinates: 38.672, 126.394
+
+
+### Thosan
+
+Code: KP0818, Coordinates: 38.336, 126.696
+
+
+### Unpha
+
+Code: KP0808, Coordinates: 38.375, 125.826
+
+
+### Yonsan
+
+Code: KP0812, Coordinates: 38.861, 126.351
+
+
+### Yonthan
+
+Code: KP0806, Coordinates: 38.696, 126.01
+
+

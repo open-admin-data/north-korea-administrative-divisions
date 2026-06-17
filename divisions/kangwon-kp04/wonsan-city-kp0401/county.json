@@ -1,0 +1,45 @@
+{
+  "id": "KP0401",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Wonsan City",
+    "en": "Wonsan City",
+    "slug": "wonsan-city-kp0401"
+  },
+  "code": {
+    "id": "KP0401",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP04",
+    "level": 1,
+    "name": {
+      "local": "Kangwon",
+      "en": "Kangwon",
+      "slug": "kangwon-kp04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP04",
+      "level": 1,
+      "name": {
+        "local": "Kangwon",
+        "en": "Kangwon",
+        "slug": "kangwon-kp04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.107",
+    "lon": "127.365"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "KP0104",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kim Hyong Jik",
+    "en": "Kim Hyong Jik",
+    "slug": "kim-hyong-jik-kp0104"
+  },
+  "code": {
+    "id": "KP0104",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP01",
+    "level": 1,
+    "name": {
+      "local": "Ryanggang",
+      "en": "Ryanggang",
+      "slug": "ryanggang-kp01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP01",
+      "level": 1,
+      "name": {
+        "local": "Ryanggang",
+        "en": "Ryanggang",
+        "slug": "ryanggang-kp01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.386",
+    "lon": "127.243"
+  },
+  "metadata": {},
+  "source": {}
+}

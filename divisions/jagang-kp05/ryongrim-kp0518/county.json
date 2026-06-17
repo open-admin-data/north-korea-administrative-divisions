@@ -1,0 +1,45 @@
+{
+  "id": "KP0518",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Ryongrim",
+    "en": "Ryongrim",
+    "slug": "ryongrim-kp0518"
+  },
+  "code": {
+    "id": "KP0518",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP05",
+    "level": 1,
+    "name": {
+      "local": "Jagang",
+      "en": "Jagang",
+      "slug": "jagang-kp05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.477",
+    "lon": "126.722"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "KP0505",
+  "level": 2,
+  "level_name": {
+    "local": "군",
+    "en": "County"
+  },
+  "name": {
+    "local": "Jonchon",
+    "en": "Jonchon",
+    "slug": "jonchon-kp0505"
+  },
+  "code": {
+    "id": "KP0505",
+    "iso": null
+  },
+  "parent": {
+    "id": "KP05",
+    "level": 1,
+    "name": {
+      "local": "Jagang",
+      "en": "Jagang",
+      "slug": "jagang-kp05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KP05",
+      "level": 1,
+      "name": {
+        "local": "Jagang",
+        "en": "Jagang",
+        "slug": "jagang-kp05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.543",
+    "lon": "126.298"
+  },
+  "metadata": {},
+  "source": {}
+}

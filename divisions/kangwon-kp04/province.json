@@ -1,0 +1,33 @@
+{
+  "id": "KP04",
+  "level": 1,
+  "level_name": {
+    "local": "도",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Kangwon",
+    "en": "Kangwon",
+    "slug": "kangwon-kp04"
+  },
+  "code": {
+    "id": "KP04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.788",
+    "lon": "127.508"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kp/provinces/kangwon-kp04/",
+    "api": "https://openadmindata.org/api/kp/"
+  }
+}

@@ -1,0 +1,89 @@
+# North Hamgyong — North Korea Administrative Divisions
+
+> 16 countys
+> Code: KP02
+> Coordinates: 41.791, 129.395
+> Last updated: 2026-06-17. License: CC-BY-4.0.
+
+## Countys
+
+### Chongjin City
+
+Code: KP0205, Coordinates: 42.023, 129.92
+
+
+### Hoeryong City
+
+Code: KP0203, Coordinates: 42.514, 129.897
+
+
+### Hwadae
+
+Code: KP0212, Coordinates: 40.824, 129.408
+
+
+### Kilju
+
+Code: KP0211, Coordinates: 41.005, 129.144
+
+
+### Kim Chaek City
+
+Code: KP0202, Coordinates: 40.769, 129.15
+
+
+### Kyonghung
+
+Code: KP0222, Coordinates: 42.506, 130.227
+
+
+### Kyongsong
+
+Code: KP0216, Coordinates: 41.68, 129.468
+
+
+### Kyongwon
+
+Code: KP0221, Coordinates: 42.718, 130.142
+
+
+### Musan
+
+Code: KP0218, Coordinates: 42.155, 129.348
+
+
+### Myongchon
+
+Code: KP0213, Coordinates: 40.978, 129.548
+
+
+### Myonggan
+
+Code: KP0214, Coordinates: 41.157, 129.428
+
+
+### Onsong
+
+Code: KP0220, Coordinates: 42.886, 129.962
+
+
+### Orang
+
+Code: KP0215, Coordinates: 41.425, 129.333
+
+
+### Puryong
+
+Code: KP0219, Coordinates: 42.118, 129.703
+
+
+### Rason City
+
+Code: KP0201, Coordinates: 42.392, 130.466
+
+
+### Yonsa
+
+Code: KP0217, Coordinates: 41.829, 129.101
+
+

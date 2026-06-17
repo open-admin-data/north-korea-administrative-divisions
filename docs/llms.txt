@@ -1,0 +1,72 @@
+# North Korea Administrative Divisions
+
+> Open dataset of North Korea's administrative hierarchy:
+> 11 provinces, 179 countys.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total provinces: 11
+- Total countys: 179
+- Coordinates: included (all levels)
+- Last updated: 2026-06-17
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All provinces (JSON)](https://raw.githubusercontent.com/open-admin-data/north-korea-administrative-divisions/main/data/all-province.json)
+- [All countys (JSON)](https://raw.githubusercontent.com/open-admin-data/north-korea-administrative-divisions/main/data/all-county.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/north-korea-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/north-korea-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/north-korea-administrative-divisions/main/data/schema.json)
+
+## Browse by Province
+
+- [Jagang](https://github.com/open-admin-data/north-korea-administrative-divisions/tree/main/divisions/jagang-kp05/) — 18 countys
+- [Kangwon](https://github.com/open-admin-data/north-korea-administrative-divisions/tree/main/divisions/kangwon-kp04/) — 17 countys
+- [Nampo](https://github.com/open-admin-data/north-korea-administrative-divisions/tree/main/divisions/nampo-kp11/) — 6 countys
+- [North Hamgyong](https://github.com/open-admin-data/north-korea-administrative-divisions/tree/main/divisions/north-hamgyong-kp02/) — 16 countys
+- [North Hwanghae](https://github.com/open-admin-data/north-korea-administrative-divisions/tree/main/divisions/north-hwanghae-kp08/) — 21 countys
+- [North Pyongan](https://github.com/open-admin-data/north-korea-administrative-divisions/tree/main/divisions/north-pyongan-kp06/) — 25 countys
+- [Pyongyang](https://github.com/open-admin-data/north-korea-administrative-divisions/tree/main/divisions/pyongyang-kp10/) — 3 countys
+- [Ryanggang](https://github.com/open-admin-data/north-korea-administrative-divisions/tree/main/divisions/ryanggang-kp01/) — 12 countys
+- [South Hamgyong](https://github.com/open-admin-data/north-korea-administrative-divisions/tree/main/divisions/south-hamgyong-kp03/) — 20 countys
+- [South Hwanghae](https://github.com/open-admin-data/north-korea-administrative-divisions/tree/main/divisions/south-hwanghae-kp09/) — 20 countys
+- [South Pyongan](https://github.com/open-admin-data/north-korea-administrative-divisions/tree/main/divisions/south-pyongan-kp07/) — 21 countys
+
+## Per-Province Full Data
+
+- [Jagang](https://raw.githubusercontent.com/open-admin-data/north-korea-administrative-divisions/main/docs/llms-full/jagang-kp05.txt)
+- [Kangwon](https://raw.githubusercontent.com/open-admin-data/north-korea-administrative-divisions/main/docs/llms-full/kangwon-kp04.txt)
+- [Nampo](https://raw.githubusercontent.com/open-admin-data/north-korea-administrative-divisions/main/docs/llms-full/nampo-kp11.txt)
+- [North Hamgyong](https://raw.githubusercontent.com/open-admin-data/north-korea-administrative-divisions/main/docs/llms-full/north-hamgyong-kp02.txt)
+- [North Hwanghae](https://raw.githubusercontent.com/open-admin-data/north-korea-administrative-divisions/main/docs/llms-full/north-hwanghae-kp08.txt)
+- [North Pyongan](https://raw.githubusercontent.com/open-admin-data/north-korea-administrative-divisions/main/docs/llms-full/north-pyongan-kp06.txt)
+- [Pyongyang](https://raw.githubusercontent.com/open-admin-data/north-korea-administrative-divisions/main/docs/llms-full/pyongyang-kp10.txt)
+- [Ryanggang](https://raw.githubusercontent.com/open-admin-data/north-korea-administrative-divisions/main/docs/llms-full/ryanggang-kp01.txt)
+- [South Hamgyong](https://raw.githubusercontent.com/open-admin-data/north-korea-administrative-divisions/main/docs/llms-full/south-hamgyong-kp03.txt)
+- [South Hwanghae](https://raw.githubusercontent.com/open-admin-data/north-korea-administrative-divisions/main/docs/llms-full/south-hwanghae-kp09.txt)
+- [South Pyongan](https://raw.githubusercontent.com/open-admin-data/north-korea-administrative-divisions/main/docs/llms-full/south-pyongan-kp07.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (province), 2 (county)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+North Korea Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/north-korea-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

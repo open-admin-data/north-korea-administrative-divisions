@@ -1,0 +1,13 @@
+# Data from Open Admin Data (https://openadmindata.org/kp/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/north-korea-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.province,children_count.county,zip_codes,geo.lat,geo.lon,source_url
+KP01,1,도,Province,Ryanggang,Ryanggang,ryanggang-kp01,KP01,,,,,,12,,41.258,128.083,https://openadmindata.org/kp/provinces/ryanggang-kp01/
+KP02,1,도,Province,North Hamgyong,North Hamgyong,north-hamgyong-kp02,KP02,,,,,,16,,41.791,129.395,https://openadmindata.org/kp/provinces/north-hamgyong-kp02/
+KP03,1,도,Province,South Hamgyong,South Hamgyong,south-hamgyong-kp03,KP03,,,,,,20,,40.191,127.876,https://openadmindata.org/kp/provinces/south-hamgyong-kp03/
+KP04,1,도,Province,Kangwon,Kangwon,kangwon-kp04,KP04,,,,,,17,,38.788,127.508,https://openadmindata.org/kp/provinces/kangwon-kp04/
+KP05,1,도,Province,Jagang,Jagang,jagang-kp05,KP05,,,,,,18,,40.9,126.711,https://openadmindata.org/kp/provinces/jagang-kp05/
+KP06,1,도,Province,North Pyongan,North Pyongan,north-pyongan-kp06,KP06,,,,,,25,,40.088,125.243,https://openadmindata.org/kp/provinces/north-pyongan-kp06/
+KP07,1,도,Province,South Pyongan,South Pyongan,south-pyongan-kp07,KP07,,,,,,21,,39.625,126.166,https://openadmindata.org/kp/provinces/south-pyongan-kp07/
+KP08,1,도,Province,North Hwanghae,North Hwanghae,north-hwanghae-kp08,KP08,,,,,,21,,38.471,126.206,https://openadmindata.org/kp/provinces/north-hwanghae-kp08/
+KP09,1,도,Province,South Hwanghae,South Hwanghae,south-hwanghae-kp09,KP09,,,,,,20,,38.191,125.419,https://openadmindata.org/kp/provinces/south-hwanghae-kp09/
+KP10,1,도,Province,Pyongyang,Pyongyang,pyongyang-kp10,KP10,,,,,,3,,39.086,125.929,https://openadmindata.org/kp/provinces/pyongyang-kp10/
+KP11,1,도,Province,Nampo,Nampo,nampo-kp11,KP11,,,,,,6,,38.848,125.335,https://openadmindata.org/kp/provinces/nampo-kp11/

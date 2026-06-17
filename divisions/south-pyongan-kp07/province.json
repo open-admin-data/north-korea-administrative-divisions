@@ -1,0 +1,33 @@
+{
+  "id": "KP07",
+  "level": 1,
+  "level_name": {
+    "local": "도",
+    "en": "Province"
+  },
+  "name": {
+    "local": "South Pyongan",
+    "en": "South Pyongan",
+    "slug": "south-pyongan-kp07"
+  },
+  "code": {
+    "id": "KP07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "39.625",
+    "lon": "126.166"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kp/provinces/south-pyongan-kp07/",
+    "api": "https://openadmindata.org/api/kp/"
+  }
+}

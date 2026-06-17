@@ -1,0 +1,33 @@
+{
+  "id": "KP02",
+  "level": 1,
+  "level_name": {
+    "local": "도",
+    "en": "Province"
+  },
+  "name": {
+    "local": "North Hamgyong",
+    "en": "North Hamgyong",
+    "slug": "north-hamgyong-kp02"
+  },
+  "code": {
+    "id": "KP02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.791",
+    "lon": "129.395"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kp/provinces/north-hamgyong-kp02/",
+    "api": "https://openadmindata.org/api/kp/"
+  }
+}
