@@ -3,7 +3,7 @@
 > 18 countys
 > Code: KP05
 > Coordinates: 40.9, 126.711
-> Last updated: 2026-06-17. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Countys
 

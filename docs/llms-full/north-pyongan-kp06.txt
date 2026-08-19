@@ -3,7 +3,7 @@
 > 25 countys
 > Code: KP06
 > Coordinates: 40.088, 125.243
-> Last updated: 2026-06-17. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Countys
 

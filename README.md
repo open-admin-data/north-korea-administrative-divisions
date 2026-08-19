@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-06-17 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/kp](https://openadmindata.org/kp/) |
 | API | [openadmindata.org/api/kp](https://openadmindata.org/api/kp/) |
+| National Anthem | [🎵 Listen & Download North Korea National Anthem MP3](https://onlygames.me/national-anthems/kp/) |
 
 ## Browse by Province
 
