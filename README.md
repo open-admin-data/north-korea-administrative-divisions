@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/kp](https://openadmindata.org/kp/) |
 | API | [openadmindata.org/api/kp](https://openadmindata.org/api/kp/) |
+| Flag | [PNG](https://onlygames.me/flags-png/kp/) · [SVG](https://onlygames.me/flags-svg/kp/) · [PDF](https://onlygames.me/flags-pdf/kp/) |
 | National Anthem | [🎵 Listen & Download North Korea National Anthem MP3](https://onlygames.me/national-anthems/kp/) |
 
 ## Browse by Province

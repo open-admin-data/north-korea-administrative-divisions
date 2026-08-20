@@ -3,7 +3,7 @@
 > 21 countys
 > Code: KP07
 > Coordinates: 39.625, 126.166
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Countys
 

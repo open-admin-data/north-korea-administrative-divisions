@@ -3,7 +3,7 @@
 > 20 countys
 > Code: KP09
 > Coordinates: 38.191, 125.419
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Countys
 
