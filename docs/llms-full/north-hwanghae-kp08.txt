@@ -3,7 +3,7 @@
 > 21 countys
 > Code: KP08
 > Coordinates: 38.471, 126.206
-> Last updated: 2026-08-20. License: CC-BY-4.0.
+> Last updated: 2026-09-02. License: CC-BY-4.0.
 
 ## Countys
 
